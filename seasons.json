@@ -1,0 +1,82 @@
+{
+    "seasons" : [{
+        "poster" : "Game_of_Thrones_Season_1.jpg",
+        "season_number" : "1",
+        "title" : "Game of Thrones - season 1",
+        "episodes" : [{
+            "title" : "Game Of Thrones : Episode I - Winter Is Coming",
+            "episode_number" : "1",
+            "discription" : "In the Seven Kingdoms of Westeros, a soldier survives an attack by the supernatural creatures known as the White Walkers. He rushes to Castle Winterfell, which is ruled by Eddard, who decapitates him for deserting his post. In King's Landing, the capital, Jon Arryn, the Hand of the King, dies under mysterious circumstances. King Robert Baratheon, Eddard's longtime friend, travels to Winterfell, offering the position to him and also proposing marriage between his firstborn son Joffrey and Eddard's older daughter Sansa. Eddard's wife Catelyn receives a letter from her sister Lysa, Jon Arryn's widow, saying that she has escaped King's Landing and that Jon was murdered by the Lannisters, Queen Cersei's family. Catelyn burns the letter and tells Eddard about it, believing that the Lannisters are plotting against Robert. Eddard's youngest son, Brandon, climbs a tower, where he witness Cersei having sex with her twin brother, Jaime, who then pushes him out the window from a presumably fatal height. Meanwhile across the narrow sea in Essos, the exiled Prince Viserys Targaryen makes a deal with the Dothraki warlord Khal Drogo, who marries Viserys' younger sister, Daenerys, in exchange for an army to conquer Westeros and reclaim the Iron Throne.",
+            "main_cast" : ["Sean Bean","Mark Addy","Nikolaj Coster-Waldau","Michelle Fairley","Lena Headey","Emilia Clarke","Iain Glen","Harry Lloyd","Kit Harington","Sophie Turner","Maisie Williams","Richard Madden","Alfie Allen","Isaac Hempstead Wright","Jack Gleeson"],
+            "episode_image" : "Game_of_Trones_S01-E01v1.jpg"
+        },
+        {
+            "title" : "The Kingsroad",
+            "episode_number" : "2",
+            "discription" : "Having accepted his new role as the Hand of the King, Eddard leaves Winterfell with his daughters Sansa and Arya, while Catelyn stays behind to tend to Bran. The unconscious Bran is attacked by an assassin, but his direwolf saves him. Catelyn decides to go to King's Landing to tell Eddard about the attempt and suspected Lannister involvement. Jon Snow, Eddard's illegitimate son, heads north to join the brotherhood of the Night's Watch, protectors of the Wall that keeps the White Walkers and the wildlings from entering civilized Westeros. Tyrion, Cersei's brother, decides to forego the trip south with his family and instead accompanies Snow's entourage to the Wall. When Joffrey threatens Arya and her friend, Arya's direwolf defends her and escapes, provoking a conflict between the Starks and the Lannisters. To resolve the insult, Robert ordering Eddard to execute Sansa's direwolf. In Winterfell, Brandon awakens from unconsciousness. Meanwhile, Daenerys focuses her attention on learning how to please Drogo.",
+            "main_cast" : ["Sean Bean","Mark Addy","Nikolaj Coster-Waldau","Michelle Fairley","Lena Headey","Emilia Clarke","Iain Glen","Harry Lloyd","Kit Harington","Sophie Turner","Maisie Williams","Richard Madden","Alfie Allen","Isaac Hempstead Wright","Jack Gleeson"],
+            "episode_image" : "Game_of_Trones_S01-E01v2.jpg"
+        },
+        {
+            "title" : "Lord Snow",
+            "episode_number" : "3",
+            "discription" : "Ned joins the King's Small Council at King's Landing, capital of the Seven Kingdoms, and learns just how poorly Westeros is being managed. Catelyn tries to covertly warn her husband, but is intercepted by an old friend, Councillor Petyr \"Littlefinger\" Baelish. Bran learns he will never walk again. He does not remember the events leading to his fall. Jon struggles to adapt to life on the Wall, as he trains with a number of low-born recruits who are not impressed by his bloodline. Watch Commander Lord Mormont asks Tyrion to plead with the King to send more men to the Night's Watch. Daenerys learns that she is pregnant, and begins to stand up to Viserys.",
+            "main_cast" : ["Sean Bean","Mark Addy","Nikolaj Coster-Waldau","Michelle Fairley","Lena Headey","Emilia Clarke","Iain Glen","Harry Lloyd","Kit Harington","Sophie Turner","Maisie Williams","Richard Madden","Alfie Allen","Isaac Hempstead Wright","Jack Gleeson"],
+            "episode_image" : "Game_of_Trones_S01-E01v3.jpg"
+        },
+        {
+            "title" : "Cripples, Bastards, and Broken Things",
+            "episode_number" : "4",
+            "discription" : "Tyrion shares saddle modifications for Bran that will allow the paraplegic boy to ride before heading south. Ned searches for clues to the unexplained death of his mentor and predecessor Jon Arryn and in the process uncovers King Robert's illegitimate son. Robert and his guests witness a tournament honoring Ned. Jon takes measures to protect Samwell Tarly, an awkward and friendless boy, from the abuse of the Night's Watchmen. A frustrated Viserys clashes with his newly empowered sister. Sansa dreams of life as a queen, while Arya envisions a far different future. At a chance encounter in a roadside tavern, Catelyn rallies her father's allies and has Tyrion arrested for conspiring to murder her son.",
+            "main_cast" : ["Sean Bean","Mark Addy","Nikolaj Coster-Waldau","Michelle Fairley","Lena Headey","Emilia Clarke","Iain Glen","Harry Lloyd","Kit Harington","Sophie Turner","Maisie Williams","Richard Madden","Alfie Allen","Isaac Hempstead Wright","Jack Gleeson"],
+            "episode_image" : "Game_of_Trones_S01-E01v4.jpg"
+        },
+        {
+            "title" : "The Wolf and the Lion",
+            "episode_number" : "5",
+            "discription" : "Ned refuses to participate in Robert's plan to assassinate the pregnant Daenerys Targaryen, and resigns as Robert's Hand, angering him. Catelyn and Tyrion (who she has taken as her prisoner) arrive at her sister Lysa's home in the Eyrie. News of Tyrion's capture reaches King's Landing where Jaime Lannister, the Queen's twin brother, demands answers from Ned. A vengeful Jaime fights Ned until his man stabs Ned in the leg from behind, leaving him wounded as his forces leave the capital.",
+            "main_cast" : ["Sean Bean","Mark Addy","Nikolaj Coster-Waldau","Michelle Fairley","Lena Headey","Emilia Clarke","Iain Glen","Harry Lloyd","Kit Harington","Sophie Turner","Maisie Williams","Richard Madden","Alfie Allen","Isaac Hempstead Wright","Jack Gleeson"],
+            "episode_image" : "Game_of_Trones_S01-E01v5.jpg"
+        },
+        {
+            "title" : "A Golden Crown",
+            "episode_number" : "6",
+            "discription" : "Robert reappoints Eddard as Hand and tasks him with running affairs until he returns from hunting. Villagers from Riverrun arrive in the throne room with news of atrocities committed by raiders, who Eddard deduces were led by Gregor Clegane, a Lannister retainer. Eddard sentences Gregor to death and sends a message to Tywin Lannister, summoning him to a trial. Eddard decides to send Sansa, (now reconciled with Joffrey), and Arya back to Winterfell. Eddard finds out that Joffrey is not Robert's biological son. While out testing his new saddle, Bran is attacked by outlaws. Robb, Eddard's oldest son, and Theon, the fostered son of a fallen rebel king, save him. In the Vale, Tyrion demands a trial by combat, which Lysa accepts. She chooses Ser Vardis and Tyrion asks for a champion. The mercenary Bronn volunteers, killing Vardis and thereby obtaining Tyrion's release. Meanwhile, Viserys becomes enraged with Drogo for not honoring his promise and attempts to kill Daenerys' unborn child. Drogo kills Viserys by pouring molten gold on his head.",
+            "main_cast" : ["Sean Bean","Mark Addy","Nikolaj Coster-Waldau","Michelle Fairley","Lena Headey","Emilia Clarke","Iain Glen","Harry Lloyd","Kit Harington","Sophie Turner","Maisie Williams","Richard Madden","Alfie Allen","Isaac Hempstead Wright","Jack Gleeson"],
+            "episode_image" : "Game_of_Trones_S01-E01v6.jpg"
+        },
+        {
+            "title" : "You Win or You Die",
+            "episode_number" : "7",
+            "discription" : "In King's Landing, Eddard tells Cersei he knows she is involved with Jaime and none of her children are Robert's. They soon learn that Robert has been critically wounded by a boar while hunting. A dying Robert names Eddard as the \"Protector of the realm\" to rule until Joffrey reaches the legal age. Eddard sends a message to Stannis, Robert's brother, intending to enthrone him since Robert has no true heirs. Eddard tells Baelish about his plan and asks him to gain the loyalty of the City Watch, the only force capable of overpowering Lannister forces loyal to Cersei. After Robert's death, Eddard, Baelish and the City Watch confront Cersei and Joffrey in the throne room, where Baelish and the City Watch betray Eddard and attack his men. At the Wall, Benjen goes missing during a foray beyond the Wall. Snow and Tarly are picked as stewards, with Jon assigned to Jeor. The duo swear their loyalties to the Night's Watch. In Essos, Robert's assassin is captured before he can poison Daenerys. Drogo vows to conquer the Seven Kingdoms and give it to his son. He starts marching towards Westeros.",
+            "main_cast" : ["Sean Bean","Mark Addy","Nikolaj Coster-Waldau","Michelle Fairley","Lena Headey","Emilia Clarke","Iain Glen","Harry Lloyd","Kit Harington","Sophie Turner","Maisie Williams","Richard Madden","Alfie Allen","Isaac Hempstead Wright","Jack Gleeson"],
+            "episode_image" : "Game_of_Trones_S01-E01v7.jpg"
+        },
+        {
+            "title" : "The Pointy End",
+            "episode_number" : "8",
+            "discription" : "Arya manages to escape King's Landing after her Braavosian sword master delays the guards sent to arrest her; Sansa is captured however. Robb hears the news and prepares the Northern armies to fight the Lannisters, leaving Bran behind to rule Winterfell. Lysa refuses to fight the Lannisters; and Catelyn leaves, joining Robb's camp. Tyrion and Bronn are surrounded by Shagga and his men. Tyrion convinces them to escort him to Tywin to repay them. They arrive at Tywin's camp, where the latter asks Shagga to help them in their confrontation with the Starks in exchange for payment. Joffrey appoints Tywin as the Hand. Sansa begs the former to show mercy upon Eddard. Joffrey agrees if the latter recognizes his reign. At the Wall, some bodies affected by the White Walkers are found. In Essos, Drogo's soldiers begin attacking nearby settlements, enslaving locals in order to sell them and gain the money to buy the ships necessary to pass the Narrow Sea.",
+            "main_cast" : ["Sean Bean","Mark Addy","Nikolaj Coster-Waldau","Michelle Fairley","Lena Headey","Emilia Clarke","Iain Glen","Harry Lloyd","Kit Harington","Sophie Turner","Maisie Williams","Richard Madden","Alfie Allen","Isaac Hempstead Wright","Jack Gleeson"],
+            "episode_image" : "Game_of_Trones_S01-E01v8.jpg"
+        },
+        {
+            "title" : "Baelor",
+            "episode_number" : "9",
+            "discription" : "The Stark army arrives at the Twins castle; and Catelyn convinces Lord Frey to let them pass and assist them by agreeing for marriage of Robb and Arya to Frey's children in the future. Robb sacrifices 2000 soldiers in a confrontation with the Lannister army to capture Jaime. In a public hearing, Eddard confesses to treason and publicly affirms Joffrey as rightful heir. However, rather than sentencing him to the Wall as had been negotiated, a vengeful Joffrey has him decapitated, while Cersei and other counselors object futilely. Sansa and Arya watch their father die: Sansa from the royal party and Arya from the crowd. At the Wall, Jeor gives his family sword to Jon in gratitude; Maester Aemon also reveals to Jon that he is a Targaryen. In Essos, Drogo's wound becomes septic and his death imminent. Daenerys convinces a slave woman to use blood magic to save him. The woman tells everyone to leave the tent and stay outside until the spell is over. Daenerys begins labor, and Jorah brings Danerys into the forbidden tent seeking aid.",
+            "main_cast" : ["Sean Bean","Mark Addy","Nikolaj Coster-Waldau","Michelle Fairley","Lena Headey","Emilia Clarke","Iain Glen","Harry Lloyd","Kit Harington","Sophie Turner","Maisie Williams","Richard Madden","Alfie Allen","Isaac Hempstead Wright","Jack Gleeson"],
+            "episode_image" : "Game_of_Trones_S01-E01v9.jpg"
+        },
+        {
+            "title" : "Fire and Blood",
+            "episode_number" : "10",
+            "discription" : "The North secedes from the Seven Kingdoms and proclaims Robb as their king. With Jaime captured by the Starks and Robert's brothers challenging Joffrey's claim to the throne, Tywin appoints Tyrion as King's Hand. Jon plans to desert his post at the Wall to avenge Eddard, but his friends convince him to stay and he instead joins a Night's Watch expedition to find Benjen beyond the Wall. Yoren, a Night's Watch recruiter, helps Arya escape King's Landing disguised as a boy while Joffrey plans to make Sansa his queen despite her father's execution. Daenerys learns that her unborn son is dead and Drogo has been left in a vegetative state due to the witch's treacherous magic. Daenerys ends Drogo's life and lights a funeral pyre. She burns the witch alive alongside Drogo's body and her three dragon eggs, and walks into the flames herself. When the embers die the following morning, Daenerys rises, unharmed, flanked by three newborn dragons. Jorah and other witnesses kneel before her.",
+            "main_cast" : ["Sean Bean","Mark Addy","Nikolaj Coster-Waldau","Michelle Fairley","Lena Headey","Emilia Clarke","Iain Glen","Harry Lloyd","Kit Harington","Sophie Turner","Maisie Williams","Richard Madden","Alfie Allen","Isaac Hempstead Wright","Jack Gleeson"],
+            "episode_image" : "Game_of_Trones_S01-E01v10.jpg"
+        }]
+    },
+    {
+        "poster" : "Game_of_Thrones_Season_1.jpg",
+        "season_number" : "2"
+    }
+    ]
+}

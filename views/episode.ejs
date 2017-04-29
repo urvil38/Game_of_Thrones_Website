@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en"> 
+    <head>
+
+        <% include partials/head.ejs %>    
+    
+    </head>
+    <body>
+
+        <% include partials/header.ejs %>
+
+        <div id="hero-image-single" style="background-image: url('/images/season1/<%= season.poster %>');">
+            <h1 id="hero-title"><%= episode.title %></h1>
+        </div>
+
+
+        <div class="content-padding clearfix">
+
+            <div class="poster-wrapper">
+            <img src="/images/season1/<%= episode.episode_image %>" class="img-responsive">
+        </div>
+
+        <div class="description-wrapper">
+            
+            <div class="description">
+                <h2 class="movie-header">Description</h2>
+                <p><%= episode.discription %></p>
+            </div>
+
+            <div class="main-characters">
+                <h2 class="movie-header">Main Characters</h2>
+                <ul>
+                <% for (var i = 0; i < episode.main_cast.length; i++) { %>
+                    <li><%= episode.main_cast[i] %></li>
+                <% } %>
+                </ul>
+            </div>
+
+        </div>
+
+        </div>
+    </body>
+
+        <% include partials/scripts.ejs %>
+
+</html>

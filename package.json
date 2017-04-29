@@ -1,0 +1,16 @@
+{
+  "name": "game_of_throns_movie_site",
+  "version": "1.0.0",
+  "description": "A website containing information about Game of Throns TV searies",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Urvil",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "ejs-lint": "^0.3.0",
+    "express": "^4.15.2"
+  }
+}
