@@ -1,451 +1,626 @@
 {
-    "seasons" : [{
-        "poster" : "Game_of_Thrones_Season_1.jpg",
-        "season_number" : "1",
-        "title" : "Game of Thrones - season 1",
-        "episodes" : [{
-            "title" : "Game Of Thrones : Episode I - Winter Is Coming",
-            "episode_number" : "1",
-            "description" : "In the Seven Kingdoms of Westeros, a soldier survives an attack by the supernatural creatures known as the White Walkers. He rushes to Castle Winterfell, which is ruled by Eddard, who decapitates him for deserting his post. In King's Landing, the capital, Jon Arryn, the Hand of the King, dies under mysterious circumstances. King Robert Baratheon, Eddard's longtime friend, travels to Winterfell, offering the position to him and also proposing marriage between his firstborn son Joffrey and Eddard's older daughter Sansa. Eddard's wife Catelyn receives a letter from her sister Lysa, Jon Arryn's widow, saying that she has escaped King's Landing and that Jon was murdered by the Lannisters, Queen Cersei's family. Catelyn burns the letter and tells Eddard about it, believing that the Lannisters are plotting against Robert. Eddard's youngest son, Brandon, climbs a tower, where he witness Cersei having sex with her twin brother, Jaime, who then pushes him out the window from a presumably fatal height. Meanwhile across the narrow sea in Essos, the exiled Prince Viserys Targaryen makes a deal with the Dothraki warlord Khal Drogo, who marries Viserys' younger sister, Daenerys, in exchange for an army to conquer Westeros and reclaim the Iron Throne.",
-            "main_cast" : ["Sean Bean","Mark Addy","Nikolaj Coster-Waldau","Michelle Fairley","Lena Headey","Emilia Clarke","Iain Glen","Harry Lloyd","Kit Harington","Sophie Turner","Maisie Williams","Richard Madden","Alfie Allen","Isaac Hempstead Wright","Jack Gleeson"],
-            "episode_image" : "Game_of_Trones_S01-E01v1_opt.jpg"
+    "seasons": [
+        {
+            "poster": "Game_of_Thrones_Season_1.jpg",
+            "season_number": "1",
+            "title": "Game of Thrones - season 1",
+            "episodes": [
+                {
+                    "title": "Game Of Thrones : Episode I - Winter Is Coming",
+                    "episode_number": "1",
+                    "description": "In the Seven Kingdoms of Westeros, a soldier survives an attack by the supernatural creatures known as the White Walkers. He rushes to Castle Winterfell, which is ruled by Eddard, who decapitates him for deserting his post. In King's Landing, the capital, Jon Arryn, the Hand of the King, dies under mysterious circumstances. King Robert Baratheon, Eddard's longtime friend, travels to Winterfell, offering the position to him and also proposing marriage between his firstborn son Joffrey and Eddard's older daughter Sansa. Eddard's wife Catelyn receives a letter from her sister Lysa, Jon Arryn's widow, saying that she has escaped King's Landing and that Jon was murdered by the Lannisters, Queen Cersei's family. Catelyn burns the letter and tells Eddard about it, believing that the Lannisters are plotting against Robert. Eddard's youngest son, Brandon, climbs a tower, where he witness Cersei having sex with her twin brother, Jaime, who then pushes him out the window from a presumably fatal height. Meanwhile across the narrow sea in Essos, the exiled Prince Viserys Targaryen makes a deal with the Dothraki warlord Khal Drogo, who marries Viserys' younger sister, Daenerys, in exchange for an army to conquer Westeros and reclaim the Iron Throne.",
+                    "main_cast": [
+                        "Sean Bean",
+                        "Mark Addy",
+                        "Nikolaj Coster-Waldau",
+                        "Michelle Fairley",
+                        "Lena Headey",
+                        "Emilia Clarke",
+                        "Iain Glen",
+                        "Harry Lloyd",
+                        "Kit Harington",
+                        "Sophie Turner",
+                        "Maisie Williams",
+                        "Richard Madden",
+                        "Alfie Allen",
+                        "Isaac Hempstead Wright",
+                        "Jack Gleeson"
+                    ],
+                    "episode_image": "Game_of_Trones_S01-E01v1_opt.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode II - The Kingsroad",
+                    "episode_number": "2",
+                    "description": "Having accepted his new role as the Hand of the King, Eddard leaves Winterfell with his daughters Sansa and Arya, while Catelyn stays behind to tend to Bran. The unconscious Bran is attacked by an assassin, but his direwolf saves him. Catelyn decides to go to King's Landing to tell Eddard about the attempt and suspected Lannister involvement. Jon Snow, Eddard's illegitimate son, heads north to join the brotherhood of the Night's Watch, protectors of the Wall that keeps the White Walkers and the wildlings from entering civilized Westeros. Tyrion, Cersei's brother, decides to forego the trip south with his family and instead accompanies Snow's entourage to the Wall. When Joffrey threatens Arya and her friend, Arya's direwolf defends her and escapes, provoking a conflict between the Starks and the Lannisters. To resolve the insult, Robert ordering Eddard to execute Sansa's direwolf. In Winterfell, Brandon awakens from unconsciousness. Meanwhile, Daenerys focuses her attention on learning how to please Drogo.",
+                    "main_cast": [
+                        "Sean Bean",
+                        "Mark Addy",
+                        "Nikolaj Coster-Waldau",
+                        "Michelle Fairley",
+                        "Lena Headey",
+                        "Emilia Clarke",
+                        "Iain Glen",
+                        "Harry Lloyd",
+                        "Kit Harington",
+                        "Sophie Turner",
+                        "Maisie Williams",
+                        "Richard Madden",
+                        "Alfie Allen",
+                        "Isaac Hempstead Wright",
+                        "Jack Gleeson"
+                    ],
+                    "episode_image": "Game_of_Trones_S01-E01v2.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode III - Lord Snow",
+                    "episode_number": "3",
+                    "description": "Ned joins the King's Small Council at King's Landing, capital of the Seven Kingdoms, and learns just how poorly Westeros is being managed. Catelyn tries to covertly warn her husband, but is intercepted by an old friend, Councillor Petyr \"Littlefinger\" Baelish. Bran learns he will never walk again. He does not remember the events leading to his fall. Jon struggles to adapt to life on the Wall, as he trains with a number of low-born recruits who are not impressed by his bloodline. Watch Commander Lord Mormont asks Tyrion to plead with the King to send more men to the Night's Watch. Daenerys learns that she is pregnant, and begins to stand up to Viserys.",
+                    "main_cast": [
+                        "Sean Bean",
+                        "Mark Addy",
+                        "Nikolaj Coster-Waldau",
+                        "Michelle Fairley",
+                        "Lena Headey",
+                        "Emilia Clarke",
+                        "Iain Glen",
+                        "Harry Lloyd",
+                        "Kit Harington",
+                        "Sophie Turner",
+                        "Maisie Williams",
+                        "Richard Madden",
+                        "Alfie Allen",
+                        "Isaac Hempstead Wright",
+                        "Jack Gleeson"
+                    ],
+                    "episode_image": "Game_of_Trones_S01-E01v3.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode IV - Cripples, Bastards, and Broken Things",
+                    "episode_number": "4",
+                    "description": "Tyrion shares saddle modifications for Bran that will allow the paraplegic boy to ride before heading south. Ned searches for clues to the unexplained death of his mentor and predecessor Jon Arryn and in the process uncovers King Robert's illegitimate son. Robert and his guests witness a tournament honoring Ned. Jon takes measures to protect Samwell Tarly, an awkward and friendless boy, from the abuse of the Night's Watchmen. A frustrated Viserys clashes with his newly empowered sister. Sansa dreams of life as a queen, while Arya envisions a far different future. At a chance encounter in a roadside tavern, Catelyn rallies her father's allies and has Tyrion arrested for conspiring to murder her son.",
+                    "main_cast": [
+                        "Sean Bean",
+                        "Mark Addy",
+                        "Nikolaj Coster-Waldau",
+                        "Michelle Fairley",
+                        "Lena Headey",
+                        "Emilia Clarke",
+                        "Iain Glen",
+                        "Harry Lloyd",
+                        "Kit Harington",
+                        "Sophie Turner",
+                        "Maisie Williams",
+                        "Richard Madden",
+                        "Alfie Allen",
+                        "Isaac Hempstead Wright",
+                        "Jack Gleeson"
+                    ],
+                    "episode_image": "Game_of_Trones_S01-E01v4.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode V - The Wolf and the Lion",
+                    "episode_number": "5",
+                    "description": "Ned refuses to participate in Robert's plan to assassinate the pregnant Daenerys Targaryen, and resigns as Robert's Hand, angering him. Catelyn and Tyrion (who she has taken as her prisoner) arrive at her sister Lysa's home in the Eyrie. News of Tyrion's capture reaches King's Landing where Jaime Lannister, the Queen's twin brother, demands answers from Ned. A vengeful Jaime fights Ned until his man stabs Ned in the leg from behind, leaving him wounded as his forces leave the capital.",
+                    "main_cast": [
+                        "Sean Bean",
+                        "Mark Addy",
+                        "Nikolaj Coster-Waldau",
+                        "Michelle Fairley",
+                        "Lena Headey",
+                        "Emilia Clarke",
+                        "Iain Glen",
+                        "Harry Lloyd",
+                        "Kit Harington",
+                        "Sophie Turner",
+                        "Maisie Williams",
+                        "Richard Madden",
+                        "Alfie Allen",
+                        "Isaac Hempstead Wright",
+                        "Jack Gleeson"
+                    ],
+                    "episode_image": "Game_of_Trones_S01-E01v5.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode VI - A Golden Crown",
+                    "episode_number": "6",
+                    "description": "Robert reappoints Eddard as Hand and tasks him with running affairs until he returns from hunting. Villagers from Riverrun arrive in the throne room with news of atrocities committed by raiders, who Eddard deduces were led by Gregor Clegane, a Lannister retainer. Eddard sentences Gregor to death and sends a message to Tywin Lannister, summoning him to a trial. Eddard decides to send Sansa, (now reconciled with Joffrey), and Arya back to Winterfell. Eddard finds out that Joffrey is not Robert's biological son. While out testing his new saddle, Bran is attacked by outlaws. Robb, Eddard's oldest son, and Theon, the fostered son of a fallen rebel king, save him. In the Vale, Tyrion demands a trial by combat, which Lysa accepts. She chooses Ser Vardis and Tyrion asks for a champion. The mercenary Bronn volunteers, killing Vardis and thereby obtaining Tyrion's release. Meanwhile, Viserys becomes enraged with Drogo for not honoring his promise and attempts to kill Daenerys' unborn child. Drogo kills Viserys by pouring molten gold on his head.",
+                    "main_cast": [
+                        "Sean Bean",
+                        "Mark Addy",
+                        "Nikolaj Coster-Waldau",
+                        "Michelle Fairley",
+                        "Lena Headey",
+                        "Emilia Clarke",
+                        "Iain Glen",
+                        "Harry Lloyd",
+                        "Kit Harington",
+                        "Sophie Turner",
+                        "Maisie Williams",
+                        "Richard Madden",
+                        "Alfie Allen",
+                        "Isaac Hempstead Wright",
+                        "Jack Gleeson"
+                    ],
+                    "episode_image": "Game_of_Trones_S01-E01v6.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode VII - You Win or You Die",
+                    "episode_number": "7",
+                    "description": "In King's Landing, Eddard tells Cersei he knows she is involved with Jaime and none of her children are Robert's. They soon learn that Robert has been critically wounded by a boar while hunting. A dying Robert names Eddard as the \"Protector of the realm\" to rule until Joffrey reaches the legal age. Eddard sends a message to Stannis, Robert's brother, intending to enthrone him since Robert has no true heirs. Eddard tells Baelish about his plan and asks him to gain the loyalty of the City Watch, the only force capable of overpowering Lannister forces loyal to Cersei. After Robert's death, Eddard, Baelish and the City Watch confront Cersei and Joffrey in the throne room, where Baelish and the City Watch betray Eddard and attack his men. At the Wall, Benjen goes missing during a foray beyond the Wall. Snow and Tarly are picked as stewards, with Jon assigned to Jeor. The duo swear their loyalties to the Night's Watch. In Essos, Robert's assassin is captured before he can poison Daenerys. Drogo vows to conquer the Seven Kingdoms and give it to his son. He starts marching towards Westeros.",
+                    "main_cast": [
+                        "Sean Bean",
+                        "Mark Addy",
+                        "Nikolaj Coster-Waldau",
+                        "Michelle Fairley",
+                        "Lena Headey",
+                        "Emilia Clarke",
+                        "Iain Glen",
+                        "Harry Lloyd",
+                        "Kit Harington",
+                        "Sophie Turner",
+                        "Maisie Williams",
+                        "Richard Madden",
+                        "Alfie Allen",
+                        "Isaac Hempstead Wright",
+                        "Jack Gleeson"
+                    ],
+                    "episode_image": "Game_of_Trones_S01-E01v7.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode VIII - The Pointy End",
+                    "episode_number": "8",
+                    "description": "Arya manages to escape King's Landing after her Braavosian sword master delays the guards sent to arrest her; Sansa is captured however. Robb hears the news and prepares the Northern armies to fight the Lannisters, leaving Bran behind to rule Winterfell. Lysa refuses to fight the Lannisters; and Catelyn leaves, joining Robb's camp. Tyrion and Bronn are surrounded by Shagga and his men. Tyrion convinces them to escort him to Tywin to repay them. They arrive at Tywin's camp, where the latter asks Shagga to help them in their confrontation with the Starks in exchange for payment. Joffrey appoints Tywin as the Hand. Sansa begs the former to show mercy upon Eddard. Joffrey agrees if the latter recognizes his reign. At the Wall, some bodies affected by the White Walkers are found. In Essos, Drogo's soldiers begin attacking nearby settlements, enslaving locals in order to sell them and gain the money to buy the ships necessary to pass the Narrow Sea.",
+                    "main_cast": [
+                        "Sean Bean",
+                        "Mark Addy",
+                        "Nikolaj Coster-Waldau",
+                        "Michelle Fairley",
+                        "Lena Headey",
+                        "Emilia Clarke",
+                        "Iain Glen",
+                        "Harry Lloyd",
+                        "Kit Harington",
+                        "Sophie Turner",
+                        "Maisie Williams",
+                        "Richard Madden",
+                        "Alfie Allen",
+                        "Isaac Hempstead Wright",
+                        "Jack Gleeson"
+                    ],
+                    "episode_image": "Game_of_Trones_S01-E01v8.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode IX - Baelor",
+                    "episode_number": "9",
+                    "description": "The Stark army arrives at the Twins castle; and Catelyn convinces Lord Frey to let them pass and assist them by agreeing for marriage of Robb and Arya to Frey's children in the future. Robb sacrifices 2000 soldiers in a confrontation with the Lannister army to capture Jaime. In a public hearing, Eddard confesses to treason and publicly affirms Joffrey as rightful heir. However, rather than sentencing him to the Wall as had been negotiated, a vengeful Joffrey has him decapitated, while Cersei and other counselors object futilely. Sansa and Arya watch their father die: Sansa from the royal party and Arya from the crowd. At the Wall, Jeor gives his family sword to Jon in gratitude; Maester Aemon also reveals to Jon that he is a Targaryen. In Essos, Drogo's wound becomes septic and his death imminent. Daenerys convinces a slave woman to use blood magic to save him. The woman tells everyone to leave the tent and stay outside until the spell is over. Daenerys begins labor, and Jorah brings Danerys into the forbidden tent seeking aid.",
+                    "main_cast": [
+                        "Sean Bean",
+                        "Mark Addy",
+                        "Nikolaj Coster-Waldau",
+                        "Michelle Fairley",
+                        "Lena Headey",
+                        "Emilia Clarke",
+                        "Iain Glen",
+                        "Harry Lloyd",
+                        "Kit Harington",
+                        "Sophie Turner",
+                        "Maisie Williams",
+                        "Richard Madden",
+                        "Alfie Allen",
+                        "Isaac Hempstead Wright",
+                        "Jack Gleeson"
+                    ],
+                    "episode_image": "Game_of_Trones_S01-E01v9.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode X - Fire and Blood",
+                    "episode_number": "10",
+                    "description": "The North secedes from the Seven Kingdoms and proclaims Robb as their king. With Jaime captured by the Starks and Robert's brothers challenging Joffrey's claim to the throne, Tywin appoints Tyrion as King's Hand. Jon plans to desert his post at the Wall to avenge Eddard, but his friends convince him to stay and he instead joins a Night's Watch expedition to find Benjen beyond the Wall. Yoren, a Night's Watch recruiter, helps Arya escape King's Landing disguised as a boy while Joffrey plans to make Sansa his queen despite her father's execution. Daenerys learns that her unborn son is dead and Drogo has been left in a vegetative state due to the witch's treacherous magic. Daenerys ends Drogo's life and lights a funeral pyre. She burns the witch alive alongside Drogo's body and her three dragon eggs, and walks into the flames herself. When the embers die the following morning, Daenerys rises, unharmed, flanked by three newborn dragons. Jorah and other witnesses kneel before her.",
+                    "main_cast": [
+                        "Sean Bean",
+                        "Mark Addy",
+                        "Nikolaj Coster-Waldau",
+                        "Michelle Fairley",
+                        "Lena Headey",
+                        "Emilia Clarke",
+                        "Iain Glen",
+                        "Harry Lloyd",
+                        "Kit Harington",
+                        "Sophie Turner",
+                        "Maisie Williams",
+                        "Richard Madden",
+                        "Alfie Allen",
+                        "Isaac Hempstead Wright",
+                        "Jack Gleeson"
+                    ],
+                    "episode_image": "Game_of_Trones_S01-E01v10.jpg"
+                }
+            ]
         },
         {
-            "title" : "Game Of Thrones : Episode II - The Kingsroad",
-            "episode_number" : "2",
-            "description" : "Having accepted his new role as the Hand of the King, Eddard leaves Winterfell with his daughters Sansa and Arya, while Catelyn stays behind to tend to Bran. The unconscious Bran is attacked by an assassin, but his direwolf saves him. Catelyn decides to go to King's Landing to tell Eddard about the attempt and suspected Lannister involvement. Jon Snow, Eddard's illegitimate son, heads north to join the brotherhood of the Night's Watch, protectors of the Wall that keeps the White Walkers and the wildlings from entering civilized Westeros. Tyrion, Cersei's brother, decides to forego the trip south with his family and instead accompanies Snow's entourage to the Wall. When Joffrey threatens Arya and her friend, Arya's direwolf defends her and escapes, provoking a conflict between the Starks and the Lannisters. To resolve the insult, Robert ordering Eddard to execute Sansa's direwolf. In Winterfell, Brandon awakens from unconsciousness. Meanwhile, Daenerys focuses her attention on learning how to please Drogo.",
-            "main_cast" : ["Sean Bean","Mark Addy","Nikolaj Coster-Waldau","Michelle Fairley","Lena Headey","Emilia Clarke","Iain Glen","Harry Lloyd","Kit Harington","Sophie Turner","Maisie Williams","Richard Madden","Alfie Allen","Isaac Hempstead Wright","Jack Gleeson"],
-            "episode_image" : "Game_of_Trones_S01-E01v2.jpg"
+            "poster": "Game_of_Thrones_Season_2.jpg",
+            "title": "Game of Thrones - season 2",
+            "season_number": "2",
+            "episodes": [
+                {
+                    "title": "Game Of Thrones : Episode I - The North Remembers",
+                    "episode_number": "1",
+                    "description": "To Cersei's dismay, Tyrion takes up his post as acting Hand at King's Landing. At Dragonstone, Stannis proclaims allegiance to Melisandre's new god and lays public claim to the Iron Throne, revealing Joffrey's bastardy. The latter orders the soldiers to slaughter Robert's bastards, one of whom named Gendry manages to escape King's Landing along with Arya. Having won three victories, Robb offers the Lannisters peace in exchange for the North's independence and Sansa's return, sending Theon to gain the support of Balon, his father, and Catelyn to seek alliance with Renly, who also claims the throne. Beyond the Wall, the Night's Watch finds shelter with Craster and his daughters/wives. In Essos, as her people slowly die in the Red Waste, Daenerys sends out riders for reconnaissance.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S02-E01v1.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode II - The Night Lands",
+                    "episode_number": "2",
+                    "description": "Returning to his home of Pyke after nine years as the Starks' ward, Theon is reunited with his sister, Yara, and Balon, who despises Theon for his Northern ways and intends to win back his crown by force. Cersei rejects Robb's terms and Tyrion exiles Slynt, head of the Gold Cloaks, to the Wall, promoting Bronn to commander of the watch. On the road to the Wall, Arya reveals her true identity to Gendry. North of the Wall, Tarly is approached by one of Craster's daughters, Gilly, who is pregnant and fears for her unborn son; Snow is reluctant to help her despite Tarly's pleas. In the Red Waste, one of the horses returns to Daenerys with the severed head of its rider in a pouch, a message from one of her enemies. In Dragonstone, Davos, Stannis's henchman, recruits the pirate Salladhor Saan to Stannis' side, and the latter has sex with Melisandre to obtain the son his wife cannot give him. Snow discovers that Craster sacrifices his sons to the White Walkers, in response, Craster knocks Snow unconscious.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S02-E01v2.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode III - What Is Dead May Never Die",
+                    "episode_number": "3",
+                    "description": "Catelyn arrives at Renly's camp to negotiate an alliance, watching the female warrior Brienne of Tarth winning the right to join Renly's guard. Renly has recently married Margaery, Loras's sister, but refuses to have sex with her due to having feelings for Loras. In the Iron Islands, Balon makes a plan to attack the North, led by Yara. After burning a letter warning Robb of Balon's impending attack, Theon re-joins the Greyjoys in a water-based ceremony. In King's Landing, Tyrion crafts a plan to find who is in Cersei's confidence; finding it to be Pycelle, whom the former imprisons. Tyrion assigns his prostitute, Shae, as handmaiden to Sansa. Beyond the Wall, Craster demands the Night's Watchmen leave. Snow finds out that Jeor already knew about Craster's felonies. On the road to the wall, the band of Night's Watch recruits are attacked by Lannister soldiers. Yoren is killed and Arya is taken prisoner. The latter states that Gendry was a boy already killed.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S02-E01v3.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode IV - Garden of Bones",
+                    "episode_number": "4",
+                    "description": "Catelyn tries to convince the Baratheon brothers to abandon their quarrel and unite against the Lannisters; but Stannis demands Renly submit to his command. Baelish visits her and offers a trade of Jaime for her daughters. Melisandre gives birth to a shadow creature. Sansa is abused by Joffrey in revenge for Robb's victories. Tyrion intervenes and in return, Joffrey is cruel to the prostitutes Tyrion sends him as \"gifts\". Tyrion releases Pycelle, but fires him from the Small Council. Tyrion also finds out about the incestuous relationship between Cersei and their cousin, Lancel, forcing the latter to spy on her by threatening to reveal it to Joffrey. Arya and Gendry are taken as captives to the castle of Harrenhal, where prisoners are tortured until death. Tywin arrives and stops the torture, picking her as his servant without knowing about her true identity. After her exhausting journey through the desert, Daenerys arrives at the gates of the prosperous city of Qarth, where Daxos, a member of the Council of Thirteen, convinces the others to let her caravan enter the city.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S02-E01v4.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode V - The Ghost of Harrenhal",
+                    "episode_number": "5",
+                    "description": "H'ghar, one of the three caged prisoners Arya saved, pledges to kill three people of her choosing in order to repay his debt to her. She accepts and first chooses the Tickler, the man who mortally tortured the captives. After Renly's death at the hands of Melisandre's shadowy assassin, Catelyn and Brienne, who are accused of the murder, are forced to flee from the camp. Excluding the Tyrells, Renly's forces submit to Stannis. Brienne swears loyalty to Catelyn. Theon sails from Pyke prepared to prove that he is a true Ironborn, with plans to capture Winterfell while Robb is absent. Tyrion learns from Lancel about the Wildfire, a burning substance mass produced to destroy Stannis' fleet and army during the upcoming siege. Tyrion takes control of the scheme. The Night's Watch arrives at an ancient fortress called the Fist of the First Men, where Jeor allows Snow to join the team led by a veteran named Halfhand in order to kill the enemy leader. In Qarth, Daxos proposes marriage to Daenerys in exchange for providing her with the wealth to conquer the Seven Kingdoms. Jorah convinces her to gain the support of the Westerosi people instead.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S02-E01v5.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode VI - The Old Gods and the New",
+                    "episode_number": "6",
+                    "description": "Myrcella, Cersei's daughter, is sent away from King's Landing. Theon manages to take Winterfell and executes Cassel, a henchman, for insulting him. Osha, the captured wildling, helps Brandon and Rickon escape. Robb reunites with the healer Maegyr. At the Fist of the First Men, Snow captures a Wildling named Ygritte, but gets separated from his patrol when she tries to escape and he is forced to chase her. Joffrey incites a riot at King's Landing, in which he is nearly killed and Sansa is nearly raped. Tywin allows Baelish to seek the allegiance of the Tyrells. An officer suspects Arya; and she has H'ghar kill him. Robb receives news of Theon's plans and sends men to retake Winterfell. At Qarth, Daenerys tries to procure a ship to take her people to Westeros, all the while keeping Daxos at bay. Daenerys' dragons are stolen.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S02-E01v6.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode VII - A Man Without Honor",
+                    "episode_number": "7",
+                    "description": "Theon begins tracking Brandon and Rickon. Tywin begins searching Harrenhal for the murderer. Ygritte continues her attempts to seduce Snow and, after a momentary lapse in Jon's concentration, she escapes and leads him into a trap. Still shaken from the riot, Sansa is horrified when she awakens to find that she has had her first menstruation and can thus bear Joffrey's children. Cersei warns her to love no one but her children, not even Joffrey. In Robb's camp, a failed escape attempt by Jaime leaves a guard dead, with some soldiers seeking retribution. In Qarth, the warlock Pree reveals to Daenerys that he stole her dragons, but gives her the opportunity to reunite with them before slaughtering the Council of Thirteen and establishing Daxos as the king. Theon presents to Luwin and his subjects the charred corpses of two boys, claiming that he has tracked down and killed Brandon and Rickon.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S02-E01v7.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode VIII - The Prince of Winterfell",
+                    "episode_number": "8",
+                    "description": "Robb learns that Catelyn has secretly freed Jaime, now escorted by Brienne, in order to ransom Sansa and Arya; he locks her in her tent and sends men to find them, also entering into a romantic relationship with Talisa. Yara arrives at Winterfell to bring Theon back to Pyke, blaming him for his actions. Tywin leaves Harrenhal to attack Robb, which leads Arya, Gendry and their friend Hot Pie to attempt an escape with the help of H'ghar, who agrees in order for Arya to refrain from naming H'ghar himself as the third man to kill. In King's Landing, Cersei attempts to blackmail Tyrion by abducting the prostitute, Ros, whom the former believes to be his secret lover. On the way to King's Landing, Stannis promises Seaworth to make him his Hand of the King. Beyond the Wall, the Wildling leader \"Rattleshirt\" leads the captured Snow and Halfhand to his king, Rayder. At the First of the First Men, the brothers of the Night's Watch find a hidden cache of dragonglass. In Qarth, Jorah agrees to accompany Daenerys into the House of the Undying to retrieve her dragons. Brandon and Rickon are revealed to be alive and hiding in Winterfell.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S02-E01v8.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode IX - Blackwater",
+                    "episode_number": "9",
+                    "description": "Baratheon's fleet assaults King's Landing. Leading the defense, Tyrion destroys many of the attacking ships with an exploding ship full of wildfire, forcing the former to attack on land. Sandor leads the defense outside the gate, but is defeated and returns inside, denouncing Joffrey and leaving. Joffrey also escapes. Tyrion convinces the Gold Cloaks to fight with him. Baratheon's forces make it inside the castle, but Tyrion leads his men behind the Baratheon forces via underground tunnels and attacks. Cersei goes to the throne room with Tommen, intending to kill him. Shae convinces Sansa to go to her chamber, where Sandor offers to take her back to Winterfell; but she decides to stay. As Tyrion is wounded and Cersei is about to poison Tommen, Tywin's forces, joined by Loras, arrive and defeat Baratheon's forces, with the latter forced to retreat.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S02-E01v9.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode X - Valar Morghulis",
+                    "episode_number": "10",
+                    "description": "Joffrey sets Sansa aside in favor of marrying Margaery while Tyrion fears for his and Shae's safety now that Tywin has replaced him as Hand and relieved Bronn from his command. Melisandre gives Stannis a new hope. Brienne and Jaime are spotted by three Stark soldiers, whom she kills. Catelyn fails to dissuade Robb from marrying Talisa. In Qarth, Daenerys ventures into the House of the Undying and successfully retrieves her dragons, who kill Pree. She then seals Daxos inside his own vault and claims his wealth for herself. In Winterfell, Theon tries to convince his men to fight Robb's army, but is knocked unconscious by them, who decide to leave. A dying Luwin convinces Brandon's party to go to the Wall. Arya, having escaped Harrenhal with Hot Pie and Gendry, receives the gift of a valuable coin from H'ghar, who magically changes his face. North of the Wall, Halfhand forces Snow to kill him to prove his loyalty to the wildlings while an army of White Walkers surrounds the Fist of the First Men.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S02-E01v10.jpg"
+                }
+            ]
         },
         {
-            "title" : "Game Of Thrones : Episode III - Lord Snow",
-            "episode_number" : "3",
-            "description" : "Ned joins the King's Small Council at King's Landing, capital of the Seven Kingdoms, and learns just how poorly Westeros is being managed. Catelyn tries to covertly warn her husband, but is intercepted by an old friend, Councillor Petyr \"Littlefinger\" Baelish. Bran learns he will never walk again. He does not remember the events leading to his fall. Jon struggles to adapt to life on the Wall, as he trains with a number of low-born recruits who are not impressed by his bloodline. Watch Commander Lord Mormont asks Tyrion to plead with the King to send more men to the Night's Watch. Daenerys learns that she is pregnant, and begins to stand up to Viserys.",
-            "main_cast" : ["Sean Bean","Mark Addy","Nikolaj Coster-Waldau","Michelle Fairley","Lena Headey","Emilia Clarke","Iain Glen","Harry Lloyd","Kit Harington","Sophie Turner","Maisie Williams","Richard Madden","Alfie Allen","Isaac Hempstead Wright","Jack Gleeson"],
-            "episode_image" : "Game_of_Trones_S01-E01v3.jpg"
+            "poster": "Game_of_Thrones_Season_3.jpg",
+            "title": "Game of Thrones - season 3",
+            "season_number": "3",
+            "episodes": [
+                {
+                    "title": "Game Of Thrones : Episode I - Valar Dohaeris",
+                    "episode_number": "1",
+                    "description": "Some of the Night's Watchmen, including Tarly and Jeor, survive the White Walkers' attack and pledge to return to the Wall to warn the Seven Kingdoms. Snow is brought before Rayder, the \"King beyond the Wall\", and pledges his loyalty to the Wildlings. A scarred Tyrion tries to get Casterly Rock from Tywin, who promises other things instead. Margaery engages in charity work with the orphans of King's Landing. Baelish offers to help Sansa escape King's Landing. Ros advises Shae not to trust him. Davos is rescued by Saan, who does not want any more connections with Baratheon, and returned to Dragonstone, where he unsuccessfully tries to kill Melisandre, who blames him for convincing Baratheon not to let her join the battle, and is imprisoned. In Essos, Targaryen arrives in the city of Astapor to buy an army of brutally-trained slave soldiers, the \"Unsullied\". She is saved from an assassination attempt by the warlocks of Qarth by Selmy, the former Kingsguard commander, who pledges his loyalty.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S03-E01v1.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode II - Dark Wings, Dark Words",
+                    "episode_number": "2",
+                    "description": "Brienne continues escorting Jaime across the Riverlands to King's Landing. He engages her in a fight, which is interrupted by Bolton soldiers. After receiving the news of the sack of Winterfell and the disappearance of Bran and Rickon, Robb diverts his attentions from the war against the Lannisters to attend Catelyn's father's funeral in Riverrun, angering Karstark, who seeks vengeance for his sons who were killed by the Lannisters. Arya, Gendry and Hot Pie also make for Riverrun, but are waylaid by a rebel group, the \"Brotherhood without Banners\", and are taken to an inn, where the captured Sandor reveals the former's identity. Margaery and her grandmother Olenna, the \"Queen of Thorns\", convince Sansa to tell them about Joffrey's flawed character. Theon is tortured by unknown captors. Bran, Rickon, Osha and Hodor encounter the siblings Jojen and Meera, children of the Stark bannerman Howland. Jojen, who has been sharing Bran's strange dreams, tells him that he is a warg, able to enter the minds of animals.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S03-E01v2.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode III - Walk of Punishment",
+                    "episode_number": "3",
+                    "description": "Robb and Catelyn attend the funeral in Riverrun. Tywin decides to send Baelish to Lysa intending to have them married in order to secure her alliance, making Tyrion the new Master of Coin. While Hot Pie decides to stay at the inn, Arya and Gendry follow the Brotherhood. Learning of the massacre at the Fist of the First Men, Rayder sends Snow with a band of Wildlings to scale the Wall and attack the Watch while it is weakened. The surviving men of the Night's Watch arrive back at Craster's Keep, where Tarly witnesses Gilly give birth to a son. Theon is freed from torture and captivity by an unknown man, who later rescues him again. Melisandre leaves Dragonstone for an unknown mission, stating that the blood of a King is required for victory. Targaryen agrees to buy all the 8,000 Unsullied and the translator Missandei for one of her dragons, against Selmy's and Jorah's advice. Jaime persuades his captor Locke not to let Brienne be raped, but Locke cuts off the former's sword hand.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S03-E01v3.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode IV - And Now His Watch Is Ended",
+                    "episode_number": "4",
+                    "description": "Theon is betrayed by the rescuer, who returns him to the prison for torture. After a failed escape attempt, Jaime believes that he is lost without his sword hand; but Brienne, knowing what he did for her, urges him not to give up hope. Varys tells Tyrion how he became a eunuch, and that he now has in his power the magician who castrated him, advising Tyrion to be patient for vengeance. At Craster's keep, the surviving Night's Watchmen, starving, come into conflict with their host. Craster and Jeor are slain in the struggle and Tarly flees with Gilly and her son. Arya and Gendry are taken to the secret cave of the Brotherhood, meeting their leader, Dondarrion, who later sentences Sandor to trial by combat with him. Margaery proposes marriage between Sansa and Loras. Targaryen meets with Kraznys to complete the trade of a dragon for the Unsullied army. She tests the Unsullied, then orders them to kill their former masters, reclaims her dragon and frees the Unsullied, who all decide to follow her freely.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S03-E01v4.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode V - Kissed by Fire",
+                    "episode_number": "5",
+                    "description": "Tyrion convinces Olenna to pay for part of the royal wedding. Sansa tells Baelish about her decision to stay in King's Landing. The Lannisters discover the Tyrells' plot to marry off Sansa to Loras. To prevent the union, Tywin plans to marry Sansa to Tyrion, and Cersei to Loras, despite the siblings' protests. Stannis confesses his infidelity to his wife, Selyse, who then tells him she already knows and approves of it. His daughter, Shireen, sneaks into the dungeon to visit Seaworth and starts teaching him to read. Sandor kills Dondarrion and is released. However, Dondarrion is resurrected seemingly by the power of the Lord of Light. Gendry decides to stay with the Brotherhood, and Thoros and Dondarrion plan to ransom Arya to Robb. After being delivered to Bolton, Jaime confesses to Brienne why he killed Aerys. Robb executes Karstark after the latter murders two captive Lannister boys. With the Karstarks abandoning him, Robb plans to make a desperate alliance with Frey. Snow and Ygritte have sex. The Unsullied select a warrior called Grey Worm as their leader on Daenerys' order.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S03-E01v5.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode VI - The Climb",
+                    "episode_number": "6",
+                    "description": "In King's Landing, Tywin coerces Olena into agreeing to marry Loras to Cersei, who reveals to Tyrion that it was Joffrey who tried to have him killed during the siege. Tyrion confesses to Shae and Sansa about the upcoming marriage. Baelish tells Varys that he has caught Ros as Varys' informant and has given her to Joffrey, who kills her. In the Riverlands, Melisandre buys Gendry from the Brotherhood, foretelling that Arya will kill many people. Robb makes a new deal with Frey by agreeing to give him Harrenhal and marry his uncle Edmure to Frey's daughter, Roslin. Bolton plans to send Jaime to King's Landing, but refuses to send Brienne with him. At an unknown location, the mysterious man continues to torture Theon. In the North, tension arises between Osha and Meera. Beyond the Wall, Tarly continues his flight with Gilly and her son, while Snow and Ygritte manage to climb the Wall with two other Wildlings.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S03-E01v6.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode VII - The Bear and the Maiden Fair",
+                    "episode_number": "7",
+                    "description": "In the North, Jojen tells Bran they must go beyond the Wall to find the raven, to Osha's horror. Snow and Ygritte's relationship deepens, making fellow Wildling Orell angry. Theon is emasculated by his torturer. Talisa reveals to Robb that she is pregnant. Arya runs away from the Brotherhood, only to be captured by Sandor. Melisandre reveals to Gendry that his father was Robert. Shae tells Tyrion that she will not continue their relationship once he marries Sansa. Tywin counsels Joffrey and discusses Daenerys, with the former dismissing the danger she might pose. Daenerys reaches the city of Yunkai and declares war on them. Bolton departs Harrenhall for Edmure's wedding while Jaime says farewell to Brienne and departs for King's Landing. On the road, he finds out that Locke refused Brienne's father's ransom. Jaime returns to Harrenhall to find Brienne in a pit fighting a bear. He leaps in and saves Brienne and departs once more, this time with her.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S03-E01v7.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode VIII - Second Sons",
+                    "episode_number": "8",
+                    "description": "King's Landing hosts Tyrion and Sansa's wedding. Cersei shows displeasure upon Margaery and Loras. At the wedding feast Tyrion gets drunk and causes a scene, with Tywin demanding he make a baby soon. In their bedroom, Tyrion tells Sansa that they will not consummate their marriage until she wants to. Sandor reveals to Arya that they are heading for the Twins to ransom her to Robb. Stannis releases Seaworth, demanding he respect Melisandre, who arrives in Dragonstone with Gendry, whom she seduces and extracts blood from him with three leeches. In a magical ritual, Stannis casts them into the fire naming three usurpers: Robb, Balon and Joffrey. Daenerys finds out that Yunkai has employed a mercenary company called the \"Second Sons\". One of the lieutenants named Naharis kills the other leaders and pledges his and the company's loyalty to Daenerys. Tarly and Gilly are attacked by a White Walker, whom the former destroys by the dragonglass dagger.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S03-E01v8.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode IX - The Rains of Castamere",
+                    "episode_number": "9",
+                    "description": "Tarly, Gilly and her son arrive at the Wall. During a thunderstorm, Bran enters Hodor's mind to calm him down, an ability not possessed by any Wildling. Nearby, Snow refuses to kill a farmer, whom Ygritte kills before Snow is attacked by the other Wildlings. Bran uses his warg ability to save Snow, who kills Orell before escaping, leaving a furious Ygritte behind with chief Giantsbane. Osha, Rickon and his direwolf depart for the Last Hearth, while Bran and his remaining company plan to go beyond the Wall. Daenerys sends Mormont, Naharis and Grey Worm to infiltrate Yunkai and open the city gate for her army. Yunkai soon falls to her forces. Robb arrives at the Twins and apologizes to Walder, who feigns acceptance. Edmure marries Roslin and they leave to consummate their marriage before Walder's men murder Catelyn, Talisa and most of the Stark bannermen, while Bolton, revealed to be loyal to the Lannisters, kills Robb. Arya also arrives at the Twins and witnesses a part of the massacre, but Sandor knocks her unconscious and carries her to safety.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S03-E01v9.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode X - Mhysa",
+                    "episode_number": "10",
+                    "description": "The mastermind of the massacre is revealed to be Tywin, who awards the House Frey the Seat of Riverrun and appoints Bolton as the Warden of the North. Theon's captor is revealed to be Ramsay, Bolton's bastard who let the former's men leave Winterfell in exchange for surrendering him. Against Balon's wishes, Yara decides to rescue Theon. Arya and Sandor kill some Frey soldiers mocking Robb's death. Arriving in the capital with Brienne, Jaime is reunited with Cersei. In the North, Tarly's party encounters Bran's and gives them the Dragonglass weapons before arriving back at Castle Black, where he and Maester Aemon send ravens to alert the Seven Kingdoms to the White Walkers. Being hit several times, Jon still manages to escape from Ygritte and returns to Castle Black. In Dragonstone, Seaworth helps Gendry escape, while Stannis decides to head north and aid the Watch against the White Walker threat, forgiving the former and keeping him. In Essos, the freed slaves of Yunkai receive Daenerys as their \"mother\".",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S03-E01v10.jpg"
+                }
+            ]
         },
         {
-            "title" : "Game Of Thrones : Episode IV - Cripples, Bastards, and Broken Things",
-            "episode_number" : "4",
-            "description" : "Tyrion shares saddle modifications for Bran that will allow the paraplegic boy to ride before heading south. Ned searches for clues to the unexplained death of his mentor and predecessor Jon Arryn and in the process uncovers King Robert's illegitimate son. Robert and his guests witness a tournament honoring Ned. Jon takes measures to protect Samwell Tarly, an awkward and friendless boy, from the abuse of the Night's Watchmen. A frustrated Viserys clashes with his newly empowered sister. Sansa dreams of life as a queen, while Arya envisions a far different future. At a chance encounter in a roadside tavern, Catelyn rallies her father's allies and has Tyrion arrested for conspiring to murder her son.",
-            "main_cast" : ["Sean Bean","Mark Addy","Nikolaj Coster-Waldau","Michelle Fairley","Lena Headey","Emilia Clarke","Iain Glen","Harry Lloyd","Kit Harington","Sophie Turner","Maisie Williams","Richard Madden","Alfie Allen","Isaac Hempstead Wright","Jack Gleeson"],
-            "episode_image" : "Game_of_Trones_S01-E01v4.jpg"
+            "poster": "Game_of_Thrones_Season_4.jpg",
+            "title": "Game of Thrones - season 4",
+            "season_number": "4",
+            "episodes": [
+                {
+                    "title": "Game Of Thrones : Episode I - Two Swords",
+                    "episode_number": "1",
+                    "description": "Tywin oversees the reforging of Ice, the Stark ancestral sword, into two new swords, one for Jaime, who tries to deal with the loss of his sword hand and Cersei's love. Prince Oberyn Martell, on behalf of his brother, Prince Doran of Dorne, arrives in King's Landing with his paramour, Ellaria Sand, to attend the royal wedding and is welcomed by Tyrion. Oberyn openly reveals to Tyrion his motive for his visit: revenge against the Lannisters for the rape and murder of his sister, Elia, wife of Prince Rhaegar. In the North, while Styr and his group of cannibal Thenns reinforce Tormund, Ygritte, and the other wildlings, Jon is released by Maester Aemon after confessing what he did during his time with the wildlings to gain information. In the Riverlands, Arya and the Hound reclaim her sword, Needle, from Polliver, killing him and his men. In Essos, Daenerys leads her army on a march towards Meereen, the last of the three great slave cities, though she is troubled by how her dragons are becoming less tame as they grow.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S04-E01v1.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode II - The Lion and the Rose",
+                    "episode_number": "2",
+                    "description": "Roose Bolton returns to the Dreadfort, where he blames Ramsay for mistreating Theon, who has been brutalized into a subservient persona called 'Reek'. The former decides to find and kill the remaining Stark children, Bran and Rickon, who threaten the legitimacy of his new title, while tasking Ramsay to reclaim the territories under Ironborn occupation. In Dragonstone, Melisandre orders several people to be burned as a tribute to the Lord of Light, to the delight of Queen Selyse and the disgust of Davos and Shireen. In King's Landing, Tyrion ends his relationship with Shae to protect her from his family and has her shipped off to Pentos. Jaime begins training his left-handed swordplay with the help of Bronn. King Joffrey and Margaery Tyrell are wed. Later, at the Royal Wedding feast, tensions between Joffrey and Tyrion grow — just before the former succumbs to poisoned wine and dies. A grief-stricken Cersei accuses Tyrion of the murder and has him arrested, while Ser Dontos, a former knight, advises Sansa to leave with him in order to survive.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S04-E01v2.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode III - Breaker of Chains",
+                    "episode_number": "3",
+                    "description": "Tywin begins grooming Tommen to be the next king and enlists Oberyn and Mace Tyrell as his fellow judges for the impending trial of Tyrion, who decides to pick Jaime as his witness. Littlefinger, who hired Ser Dontos, kills him and smuggles Sansa out of King's Landing. In the Riverlands, Arya and Sandor encounter a benevolent farmer and his daughter, whom Sandor robs, to the Arya's disgust. In Dragonstone, Davos tries to figure out how to replenish Stannis' depleted forces and requests a loan from the Iron Bank of Braavos to pay for a group of mercenaries called the \"Golden Company\". In the North, Sam, fearing for Gilly's safety, has her and the baby moved out of Castle Black to nearby Mole's Town. Meanwhile, the wildlings continue to raid northern villages. The Night's Watch receive word that the band of Night's Watch mutineers have set up camp at Craster's Keep. Jon tells the Watch to organize a party to attack the mutineers, as they cannot risk having any information about the weakness of Castle Black's defenses leak to Mance Rayder's approaching army. Daenerys lays siege to Meereen.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S04-E01v3.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode IV - Oathkeeper",
+                    "episode_number": "4",
+                    "description": "Daenerys successfully captures Meereen amidst a slave revolt and immediately seeks justice for the slain slave children by nailing 163 masters to posts. At sea, Littlefinger admits to Sansa that he was involved in Joffrey's death. In King's Landing, Olenna, who is planning to leave, also implies to Margaery that she was involved in the poisoning and convinces her to seduce Tommen before Cersei has a chance to turn him against her. Jaime meets with Tyrion and is convinced of his innocence. However, Cersei is adamant about Tyrion's guilt and orders Jaime to hunt down and kill Sansa. Jaime instead tasks Brienne with finding and protecting her, giving her both his Valyrian sword and Podrick as her squire. In the North, in an effort to get rid of Jon, Alliser Thorne and Janos Slynt conspire to allow Jon to lead an expedition against the mutineers, who have captured Bran's party and forced him to reveal his identity. Further north, a White Walker takes Craster's last newborn son to a secret ritual site, where he is transformed into a Walker.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S04-E01v4.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode V - First of His Name",
+                    "episode_number": "5",
+                    "description": "Tommen is crowned king. Cersei meets with Margaery, Tywin, and Oberyn, hoping to sway them to her advantage in the coming trial against Tyrion. In the Vale, Littlefinger takes Sansa to the Eyrie, where she is to pose as his niece. He is then pressured to marry Lysa Arryn that same day. It is revealed that the pair killed Jon Arryn while framing the Lannisters. On the Kingsroad, the Hound catches Arya practicing her water dancing and angers her by mocking that fighting style and Syrio Forel. On the road, Brienne finds out that Podrick has no practical skills as a squire. However, she is impressed with the fact that he killed a Kingsguard in order to protect Tyrion. Beyond the Wall, Jon's group attacks the mutineers. Locke attempts to kidnap Bran in the confusion but is killed by Hodor, warged into by Bran. Bran and his company then continue their trek north while Jon's party kills all of the mutineers and burns down Craster's Keep. In Meereen, after Jorah informs her about the fallback to slavery of Astapor and Yunkai, Daenerys decides to postpone her invasion of Westeros to bring order to Slaver's Bay and pronounces herself queen.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S04-E01v5.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode VI - The Laws of Gods and Men",
+                    "episode_number": "6",
+                    "description": "In Essos, Davos manages to convince the Iron Bank to back Stannis while also resecuring Salladhor Saan and his pirates to Stannis' cause. In Meereen, Daenerys attempts to take on her new role as queen as she listens to the requests of her subjects, including nobleman Hizdahr zo Loraq and a man whose goats were killed by Daenerys' increasingly uncontrollable dragons. In the Dreadfort, Yara leads an attack in an effort to rescue Theon, who refuses to come with her, forcing her to escape. Ramsay rewards Theon for being obedient and, in order to take Moat Cailin, tasks him to pretend to be \"Theon\" instead of \"Reek\". In King's Landing, Tywin puts a bounty on the Hound's head and instructs Varys to continue spying on Daenerys. Later that day, Tyrion is brought to trial for Joffrey's murder. However, all of the witnesses brought in testify against him, including Ser Meryn Trant, Grand Maester Pycelle, Cersei, Varys and, to Tyrion's shock, Shae, who gives a solid testimony. Angry, humiliated, and defeated, Tyrion demands a trial by combat.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S04-E01v6.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode VII - Mockingbird",
+                    "episode_number": "7",
+                    "description": "Cersei appoints the Mountain as her champion in the upcoming trial by combat, while both Jaime and Bronn refuse to fight for Tyrion. Oberyn steps up, seeking a chance to avenge Elia by killing the Mountain, who raped and killed her during the rebellion. Daenerys has sex with Daario before sending him off on a mission to deal with the resurgent slavers at Yunkai. Melisandre and Selyse prepare for their departure from Dragonstone, intending to take Shireen as well. Alliser Thorne rejects Jon's offer to seal the tunnel. Brienne and Podrick meet Hot Pie and learn of Arya's adventures. They then resolve to travel to the Vale, deducing she would go there in search of living relatives. In the Vale, Lysa is enraged when she witnesses Littlefinger kissing Sansa. Later, she threatens to push Sansa through the Moon Door, but Littlefinger intervenes and pushes Lysa to her death.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S04-E01v7.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode VIII - The Mountain and the Viper",
+                    "episode_number": "8",
+                    "description": "The wildlings attack Mole's Town. Gilly is discovered by Ygritte, who spares her. Ramsay forces Theon to get the Ironborn to surrender Moat Cailin. The Ironborn surrender in hopes of returning home but are flayed and slaughtered by Ramsay. As a reward for securing Moat Cailin, Roose legitimizes Ramsay as a Bolton. In the Vale, Sansa reveals to a council investigating Lysa's death her true identity and convinces the council of Littlefinger's innocence. While Littlefinger starts grooming Robin Arryn, Lysa's son, as the Lord of the Vale, the Hound and Arya arrive and are informed of Lysa's death. In King's Landing, the trial by combat starts. Oberyn gains the upper hand, but his desire to force the Mountain to confess his crimes gives the latter the chance to grab the former. He kills Oberyn by crushing his skull while confessing to the rape and murder of Elia. Tywin sentences Tyrion to death. In Essos, Barristan Selmy receives a letter intended for Jorah that pardons him as a reward for spying on Daenerys, who exiles him from Meereen as a result.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S04-E01v8.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode IX - The Watchers on the Wall",
+                    "episode_number": "9",
+                    "description": "The Night's Watch prepares for the wildling invasion. Gilly and her son arrive at Castle Black, where Sam hides them in an underground room. The wildlings attack from both sides. Tormund's army gets through from the south and engages the Night's Watch. One giant manages to break through the tunnel leading into Castle Black but is killed by Grenn and five others, at the cost of their own lives. Alliser Thorne goes to fight in the southern part, leaving Janos Slynt in charge. However, Slynt proves to be incompetent and is tricked into going down the main level, effectively leaving Jon in charge. After watching Jon kill Styr, Ygritte prepares to kill him but is shot by Olly. Jon holds her in his arms as she dies. With the help of Jon's direwolf, Ghost, the Night's Watch secure the ground level of Castle Black, leading to Tormund's arrest. The wall climbers are obliterated by a massive scythe launched by the Watch. The wildlings retreat but not for long, Jon predicts. Seeing no other choice, Jon goes beyond the Wall to find and kill Mance Rayder.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S04-E01v9.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode X - The Children",
+                    "episode_number": "10",
+                    "description": "Jon's negotiation with Mance Rayder is interrupted when Stannis and his army overrun the wildling camp, taking Mance as prisoner on the former's suggestion. Bran's party comes upon the large heart tree from his visions but is attacked by skeletal beasts, who kill Jojen; the others are saved by a child, who takes them to the three-eyed raven, revealed to be an old man. In the Vale, Brienne and Podrick come across Arya and the Hound, whom Brienne engages and critically wounds. He begs Arya to kill him, but she refuses and leaves with Brienne searching for her. She enters a ship headed to Braavos, intending to reunite with Jaqen H'ghar. Meanwhile, in King's Landing, Cersei orders Qyburn to do anything to save the Mountain, who is poisoned by Oberyn's blade. She gets involved with Jaime, who releases Tyrion. Tyrion later finds Shae in Tywin's bed and strangles her to death. He then confronts Tywin in the privy and kills him, escaping the city with Varys. In Meereen, Daenerys is visited by a citizen who brings the charred remains of his daughter, who was burned by Drogon. As a precaution, Daenerys chains her two other dragons in the catacombs.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S04-E01v10.jpg"
+                }
+            ]
         },
         {
-            "title" : "Game Of Thrones : Episode V - The Wolf and the Lion",
-            "episode_number" : "5",
-            "description" : "Ned refuses to participate in Robert's plan to assassinate the pregnant Daenerys Targaryen, and resigns as Robert's Hand, angering him. Catelyn and Tyrion (who she has taken as her prisoner) arrive at her sister Lysa's home in the Eyrie. News of Tyrion's capture reaches King's Landing where Jaime Lannister, the Queen's twin brother, demands answers from Ned. A vengeful Jaime fights Ned until his man stabs Ned in the leg from behind, leaving him wounded as his forces leave the capital.",
-            "main_cast" : ["Sean Bean","Mark Addy","Nikolaj Coster-Waldau","Michelle Fairley","Lena Headey","Emilia Clarke","Iain Glen","Harry Lloyd","Kit Harington","Sophie Turner","Maisie Williams","Richard Madden","Alfie Allen","Isaac Hempstead Wright","Jack Gleeson"],
-            "episode_image" : "Game_of_Trones_S01-E01v5.jpg"
+            "poster": "Game_of_Thrones_Season_5.jpg",
+            "title": "Game of Thrones - season 5",
+            "season_number": "5",
+            "episodes": [
+                {
+                    "title": "Game Of Thrones : Episode I - The Wars to Come",
+                    "episode_number": "1",
+                    "description": "In a flashback, a witch tells a teenage Cersei that someone younger and more beautiful than herself will one day steal her accomplishments. In the present, Tywin is buried and Lancel returns, now a devoutly religious man and a member of the \"Sparrows\". In Pentos, a despondent Tyrion agrees to accompany Varys to Meereen to support Targaryen's claim on the Iron Throne. In Meereen, the insurgent \"Sons of the Harpy\" murder an Unsullied, forcing Daenerys to launch more restrictive measures without respecting the old traditions. Missandei gets suspicious when she realizes that the Unsullied visit brothels. Daenerys's locked-away dragons attack her when she checks on them. In the Vale, Baelish puts Arryn in the care of House Royce and leaves with Sansa. At the Wall, Stannis seeks to enlist the Wildlings in his war against Roose. Snow is unable to convince Rayder to accept Stannis's authority. The latter has Mance burned alive, though Snow shoots him with an arrow to kill him quickly.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S05-E01v1.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode II - The House of Black and White",
+                    "episode_number": "2",
+                    "description": "Arya arrives in Braavos and is accepted into the \"House of Black and White\" by H'ghar, who calls himself and his colleagues \"no one\". Jaime tells Cersei he is going to Dorne to sneak out Myrcella, who is promised to Prince Doran's son, and recruits Bronn to assist him; Podrick recognises Baelish and Sansa in a tavern; Brienne offers Sansa her protection, but is rebuffed. Baelish demands her to stay with them, but she refuses and escapes with Podrick. However, she decides to follow Sansa secretly. Stannis offers Snow legitimacy and lordship of Winterfell if he leaves the Night's Watch to help him, but Snow declines; Tarly nominates him as a candidate for Lord Commander, and he is elected by the casting vote of Aemon. Daenerys faces a riot after she decides to execute a former slave who murdered a captured member of the Sons of the Harpy before he could be tried. Drogon reappears to her, but leaves again.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S05-E01v2.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode III - High Sparrow",
+                    "episode_number": "3",
+                    "description": "Margaery, newly wed to Tommen, manipulates him into planning to send Cersei to Casterly Rock. Baelish conducts Sansa to Winterfell to cement an alliance with Roose through her marriage to Ramsay, behind the Lannisters' back. Brienne decides to train Podrick. To adapt in the House of Black and White, Arya throws all her personal effects into the river except for Needle, which she hides in a pile of rocks. At Castle Black, Snow names Thorne First Ranger, but Slynt refuses to follow Snow's orders that he leave to rebuild the Greygard ruin. Snow executes Slynt himself. Lancel finds the High Septon in a compromising situation in a brothel, punishing him by forcing him to walk the streets completely nude. The High Septon complains to Cersei, who imprisons him instead. She meets the High Sparrow, approving the Sparrows' actions. Tyrion and Varys arrive in Volantis and visit a brothel, where the former is abducted by Mormont, intending to take him \"to the queen\".",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S05-E01v3.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode IV - Sons of the Harpy",
+                    "episode_number": "4",
+                    "description": "Cersei provides weapons for the Sparrows, who arrest Loras. Margaery is enraged, but Tommen proves too weak to arrange his release. Melisandre tries to seduce Snow in an attempt to convince him to go to Winterfell with Stannis. In Winterfell, Baelish prepares to return to King's Landing. Before leaving, he tries to dispel Sansa's misgivings towards Ramsay, telling her that even if Stannis does not defeat the Boltons and rescue her, she can easily manipulate Ramsay. Bronn and Jaime land secretly in Dorne; they encounter and kill four horsemen. The Sand Snakes learn from a sea captain that Jaime has come to Dorne for Myrcella; Ellaria convinces the Sand Snakes to plan to avenge the death of Oberyn by abducting Myrcella before Jaime can intervene. Mormont plans to redeem himself to Daenerys by giving Tyrion to her as a prisoner. In Meereen, Loraq makes another appeal to her to reopen the fighting pits; the Sons of the Harpy ambush an Unsullied patrol inside the citadel; Grey Worm is critically wounded and Selmy is killed.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S05-E01v4.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode V - Kill the Boy",
+                    "episode_number": "5",
+                    "description": "Cersei provides weapons for the Sparrows, who arrest Loras. Margaery is enraged, but Tommen proves too weak to arrange his release. Melisandre tries to seduce Snow in an attempt to convince him to go to Winterfell with Stannis. In Winterfell, Baelish prepares to return to King's Landing. Before leaving, he tries to dispel Sansa's misgivings towards Ramsay, telling her that even if Stannis does not defeat the Boltons and rescue her, she can easily manipulate Ramsay. Bronn and Jaime land secretly in Dorne; they encounter and kill four horsemen. The Sand Snakes learn from a sea captain that Jaime has come to Dorne for Myrcella; Ellaria convinces the Sand Snakes to plan to avenge the death of Oberyn by abducting Myrcella before Jaime can intervene. Mormont plans to redeem himself to Daenerys by giving Tyrion to her as a prisoner. In Meereen, Loraq makes another appeal to her to reopen the fighting pits; the Sons of the Harpy ambush an Unsullied patrol inside the citadel; Grey Worm is critically wounded and Selmy is killed.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S05-E01v5.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode VI - Unbowed, Unbent, Unbroken",
+                    "episode_number": "6",
+                    "description": "H'ghar takes Arya to a chamber with the faces of all the people that have died in the House of Black and White. Jaime and Bronn reach the Water Gardens, where they find Myrcella and are attacked by the Sand Snakes. The fight is broken up by Dornish guards, who arrest everyone. Mormont and Tyrion run into slavers, whom Tyrion manages to convince to take them to the fighting pits of Meereen. Baelish informs Cersei of Roose's plan to marry Sansa to Ramsay, and convinces her to allow him to lead the knights of the Vale to Winterfell to defeat the winning party of the conflict between Roose and Stannis, being named Warden of the North in return. Olenna arrives in King's Landing and warns Cersei that the imprisonment of Loras has put their alliance in peril. At Loras' inquest, Loras and Margaery both deny his homosexuality. The male prostitute Olyvar contradicts their testimony, and she is arrested for lying to the gods. In Winterfell, Sansa is married to Ramsay, who rapes her in front of Theon.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S05-E01v6.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode VII - The Gift",
+                    "episode_number": "7",
+                    "description": "Snow leaves for Hardhome with Giantsbane and some rangers. Aemon dies shortly after. Gilly is attacked by two Watchmen. Tarly intervenes and is overpowered until Ghost arrives and forces the duo to leave. Tarly and Gilly develop a romantic relationship. Sansa asks Theon to help her escape Winterfell, but he instead informs Ramsay, who flays the woman working for Brienne. At Stannis' army's camp, Melisandre suggests sacrificing Shireen, which he refuses. Mormont and Tyrion are sold to slaver Qaggaz. The two are brought to a local fighting pit that Daenerys and her consort happen to be visiting in preparation for the coming games at Daznak's pit. Mormont defeats the other slaves and reveals his identity to her, and that he brought Tyrion as a \"gift\" for her. In Dorne, Myrcella tells Jaime that she wants to marry Trystane, Doran's son. Olenna's demand for Loras and Margaery's release is declined by the High Sparrow. Later, the High Sparrow arrests Cersei due to her former incestuous relationship with Lancel.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S05-E01v7.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode VIII - hardhome",
+                    "episode_number": "8",
+                    "description": "Cersei learns that her uncle Kevan is appointed as the Hand. She is left thirsty in order to force her to confess, which she does not. Arya assumes the identity of Lana, an oyster merchant. H'ghar tasks her to study a man who sells marine insurance, but has defrauded benefactors. She is to learn everything about the insurer, and then poison him. Theon tells Sansa that he faked the deaths of Brandon and Rickon. Ramsay suggests to Roose that they move on Stannis and asks for twenty skilled men. In Meereen, Tyrion convinces Daenerys to spare Mormont's life and she exiles him again. Mormont goes back to Yezzan and asks permission to fight in the pits. She accepts Tyrion into her council. Arriving in Hardhome, Snow and Giantsbane convince about five thousand wildlings to join them before Hardhome is attacked by an army of wights. Snow kills a White Walker with his Valyrian-steel sword. As he, Giantsbane and the other survivors sail away, they witness the Night's King reanimating the deceased wildlings as wights.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S05-E01v8.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode IX - The Dance of Dragones",
+                    "episode_number": "9",
+                    "description": "During a snowstorm, Stannis' camp is sabotaged when Ramsay's party destroys the camp's siege equipment and food stores, while inflicting heavy losses on the army's horses. Sending Seaworth to the Wall to ask for supplies, Stannis reluctantly decides to sacrifice Shireen, burning her alive at the stake, while she desperately cries out for her parents. Snow and the others return to the Wall, allowing the wildlings to pass South. In Dorne, Doran permits Jaime and Bronn to return to King's Landing with Myrcella, provided Trystane accompany them and serve on the small council in Oberyn's stead. The former also pardons Sand and her daughters. In Braavos, Arya spots Trant accompanying Mace, Margaery's father and the Master of Coin. In Meereen, the fights at Daznak's pit begin, and Daenerys is stunned to see Mormont amongst the combatants. His triumph is interrupted by a fierce attack by the Sons of the Harpy, who quickly surround Daenerys and her supporters, including Mormont. Just as all hope seems lost, Drogon arrives, and she mounts it and flies away from the pit, her followers watching in awe.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S05-E01v9.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode X - Mother's Mercy",
+                    "episode_number": "10",
+                    "description": "Selyse hangs herself and half of Stannis' forces desert him while Melisandre flees to Castle Black; Stannis is defeated by the Boltons and consequently killed by Brienne. Sansa attempts to escape, but is confronted by Myranda, whom Theon kills; and the duo escape Winterfell together. Cersei confesses her former relationship with Lancel and is forced to face atonement by walking the streets fully naked. Upon reaching the Red Keep, Qyburn introduces a new member of the Kingsguard with complete loyalty. Jaime, Myrcella, Bronn and Trystane sail from Dorne. She dies of poison by Sand in the ship. Arya infiltrates a brothel and kills Trant. She is blinded for violating the terms of the Faceless Men. Varys arrives in Meereen to rule the city with Tyrion, Grey Worm and Missandei, while Naharis and Mormont leave to search for Daenerys, who, far away, is found by a large group of the Dothraki. Tarly, Gilly and her child leave for Oldtown for the former to become a Maester. Snow is stabbed several times by mutineers, including Thorne and Olly.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S05-E01v10.jpg"
+                }
+            ]
         },
         {
-            "title" : "Game Of Thrones : Episode VI - A Golden Crown",
-            "episode_number" : "6",
-            "description" : "Robert reappoints Eddard as Hand and tasks him with running affairs until he returns from hunting. Villagers from Riverrun arrive in the throne room with news of atrocities committed by raiders, who Eddard deduces were led by Gregor Clegane, a Lannister retainer. Eddard sentences Gregor to death and sends a message to Tywin Lannister, summoning him to a trial. Eddard decides to send Sansa, (now reconciled with Joffrey), and Arya back to Winterfell. Eddard finds out that Joffrey is not Robert's biological son. While out testing his new saddle, Bran is attacked by outlaws. Robb, Eddard's oldest son, and Theon, the fostered son of a fallen rebel king, save him. In the Vale, Tyrion demands a trial by combat, which Lysa accepts. She chooses Ser Vardis and Tyrion asks for a champion. The mercenary Bronn volunteers, killing Vardis and thereby obtaining Tyrion's release. Meanwhile, Viserys becomes enraged with Drogo for not honoring his promise and attempts to kill Daenerys' unborn child. Drogo kills Viserys by pouring molten gold on his head.",
-            "main_cast" : ["Sean Bean","Mark Addy","Nikolaj Coster-Waldau","Michelle Fairley","Lena Headey","Emilia Clarke","Iain Glen","Harry Lloyd","Kit Harington","Sophie Turner","Maisie Williams","Richard Madden","Alfie Allen","Isaac Hempstead Wright","Jack Gleeson"],
-            "episode_image" : "Game_of_Trones_S01-E01v6.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode VII - You Win or You Die",
-            "episode_number" : "7",
-            "description" : "In King's Landing, Eddard tells Cersei he knows she is involved with Jaime and none of her children are Robert's. They soon learn that Robert has been critically wounded by a boar while hunting. A dying Robert names Eddard as the \"Protector of the realm\" to rule until Joffrey reaches the legal age. Eddard sends a message to Stannis, Robert's brother, intending to enthrone him since Robert has no true heirs. Eddard tells Baelish about his plan and asks him to gain the loyalty of the City Watch, the only force capable of overpowering Lannister forces loyal to Cersei. After Robert's death, Eddard, Baelish and the City Watch confront Cersei and Joffrey in the throne room, where Baelish and the City Watch betray Eddard and attack his men. At the Wall, Benjen goes missing during a foray beyond the Wall. Snow and Tarly are picked as stewards, with Jon assigned to Jeor. The duo swear their loyalties to the Night's Watch. In Essos, Robert's assassin is captured before he can poison Daenerys. Drogo vows to conquer the Seven Kingdoms and give it to his son. He starts marching towards Westeros.",
-            "main_cast" : ["Sean Bean","Mark Addy","Nikolaj Coster-Waldau","Michelle Fairley","Lena Headey","Emilia Clarke","Iain Glen","Harry Lloyd","Kit Harington","Sophie Turner","Maisie Williams","Richard Madden","Alfie Allen","Isaac Hempstead Wright","Jack Gleeson"],
-            "episode_image" : "Game_of_Trones_S01-E01v7.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode VIII - The Pointy End",
-            "episode_number" : "8",
-            "description" : "Arya manages to escape King's Landing after her Braavosian sword master delays the guards sent to arrest her; Sansa is captured however. Robb hears the news and prepares the Northern armies to fight the Lannisters, leaving Bran behind to rule Winterfell. Lysa refuses to fight the Lannisters; and Catelyn leaves, joining Robb's camp. Tyrion and Bronn are surrounded by Shagga and his men. Tyrion convinces them to escort him to Tywin to repay them. They arrive at Tywin's camp, where the latter asks Shagga to help them in their confrontation with the Starks in exchange for payment. Joffrey appoints Tywin as the Hand. Sansa begs the former to show mercy upon Eddard. Joffrey agrees if the latter recognizes his reign. At the Wall, some bodies affected by the White Walkers are found. In Essos, Drogo's soldiers begin attacking nearby settlements, enslaving locals in order to sell them and gain the money to buy the ships necessary to pass the Narrow Sea.",
-            "main_cast" : ["Sean Bean","Mark Addy","Nikolaj Coster-Waldau","Michelle Fairley","Lena Headey","Emilia Clarke","Iain Glen","Harry Lloyd","Kit Harington","Sophie Turner","Maisie Williams","Richard Madden","Alfie Allen","Isaac Hempstead Wright","Jack Gleeson"],
-            "episode_image" : "Game_of_Trones_S01-E01v8.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode IX - Baelor",
-            "episode_number" : "9",
-            "description" : "The Stark army arrives at the Twins castle; and Catelyn convinces Lord Frey to let them pass and assist them by agreeing for marriage of Robb and Arya to Frey's children in the future. Robb sacrifices 2000 soldiers in a confrontation with the Lannister army to capture Jaime. In a public hearing, Eddard confesses to treason and publicly affirms Joffrey as rightful heir. However, rather than sentencing him to the Wall as had been negotiated, a vengeful Joffrey has him decapitated, while Cersei and other counselors object futilely. Sansa and Arya watch their father die: Sansa from the royal party and Arya from the crowd. At the Wall, Jeor gives his family sword to Jon in gratitude; Maester Aemon also reveals to Jon that he is a Targaryen. In Essos, Drogo's wound becomes septic and his death imminent. Daenerys convinces a slave woman to use blood magic to save him. The woman tells everyone to leave the tent and stay outside until the spell is over. Daenerys begins labor, and Jorah brings Danerys into the forbidden tent seeking aid.",
-            "main_cast" : ["Sean Bean","Mark Addy","Nikolaj Coster-Waldau","Michelle Fairley","Lena Headey","Emilia Clarke","Iain Glen","Harry Lloyd","Kit Harington","Sophie Turner","Maisie Williams","Richard Madden","Alfie Allen","Isaac Hempstead Wright","Jack Gleeson"],
-            "episode_image" : "Game_of_Trones_S01-E01v9.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode X - Fire and Blood",
-            "episode_number" : "10",
-            "description" : "The North secedes from the Seven Kingdoms and proclaims Robb as their king. With Jaime captured by the Starks and Robert's brothers challenging Joffrey's claim to the throne, Tywin appoints Tyrion as King's Hand. Jon plans to desert his post at the Wall to avenge Eddard, but his friends convince him to stay and he instead joins a Night's Watch expedition to find Benjen beyond the Wall. Yoren, a Night's Watch recruiter, helps Arya escape King's Landing disguised as a boy while Joffrey plans to make Sansa his queen despite her father's execution. Daenerys learns that her unborn son is dead and Drogo has been left in a vegetative state due to the witch's treacherous magic. Daenerys ends Drogo's life and lights a funeral pyre. She burns the witch alive alongside Drogo's body and her three dragon eggs, and walks into the flames herself. When the embers die the following morning, Daenerys rises, unharmed, flanked by three newborn dragons. Jorah and other witnesses kneel before her.",
-            "main_cast" : ["Sean Bean","Mark Addy","Nikolaj Coster-Waldau","Michelle Fairley","Lena Headey","Emilia Clarke","Iain Glen","Harry Lloyd","Kit Harington","Sophie Turner","Maisie Williams","Richard Madden","Alfie Allen","Isaac Hempstead Wright","Jack Gleeson"],
-            "episode_image" : "Game_of_Trones_S01-E01v10.jpg"
-        }]
-    },{
-        "poster" : "Game_of_Thrones_Season_2.jpg",
-        "title" : "Game of Thrones - season 2",
-        "season_number" : "2",
-        "episodes" : [{
-            "title" : "Game Of Thrones : Episode I - The North Remembers",
-            "episode_number" : "1",
-            "description" : "To Cersei's dismay, Tyrion takes up his post as acting Hand at King's Landing. At Dragonstone, Stannis proclaims allegiance to Melisandre's new god and lays public claim to the Iron Throne, revealing Joffrey's bastardy. The latter orders the soldiers to slaughter Robert's bastards, one of whom named Gendry manages to escape King's Landing along with Arya. Having won three victories, Robb offers the Lannisters peace in exchange for the North's independence and Sansa's return, sending Theon to gain the support of Balon, his father, and Catelyn to seek alliance with Renly, who also claims the throne. Beyond the Wall, the Night's Watch finds shelter with Craster and his daughters/wives. In Essos, as her people slowly die in the Red Waste, Daenerys sends out riders for reconnaissance.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S02-E01v1.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode II - The Night Lands",
-            "episode_number" : "2",
-            "description" : "Returning to his home of Pyke after nine years as the Starks' ward, Theon is reunited with his sister, Yara, and Balon, who despises Theon for his Northern ways and intends to win back his crown by force. Cersei rejects Robb's terms and Tyrion exiles Slynt, head of the Gold Cloaks, to the Wall, promoting Bronn to commander of the watch. On the road to the Wall, Arya reveals her true identity to Gendry. North of the Wall, Tarly is approached by one of Craster's daughters, Gilly, who is pregnant and fears for her unborn son; Snow is reluctant to help her despite Tarly's pleas. In the Red Waste, one of the horses returns to Daenerys with the severed head of its rider in a pouch, a message from one of her enemies. In Dragonstone, Davos, Stannis's henchman, recruits the pirate Salladhor Saan to Stannis' side, and the latter has sex with Melisandre to obtain the son his wife cannot give him. Snow discovers that Craster sacrifices his sons to the White Walkers, in response, Craster knocks Snow unconscious.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S02-E01v2.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode III - What Is Dead May Never Die",
-            "episode_number" : "3",
-            "description" : "Catelyn arrives at Renly's camp to negotiate an alliance, watching the female warrior Brienne of Tarth winning the right to join Renly's guard. Renly has recently married Margaery, Loras's sister, but refuses to have sex with her due to having feelings for Loras. In the Iron Islands, Balon makes a plan to attack the North, led by Yara. After burning a letter warning Robb of Balon's impending attack, Theon re-joins the Greyjoys in a water-based ceremony. In King's Landing, Tyrion crafts a plan to find who is in Cersei's confidence; finding it to be Pycelle, whom the former imprisons. Tyrion assigns his prostitute, Shae, as handmaiden to Sansa. Beyond the Wall, Craster demands the Night's Watchmen leave. Snow finds out that Jeor already knew about Craster's felonies. On the road to the wall, the band of Night's Watch recruits are attacked by Lannister soldiers. Yoren is killed and Arya is taken prisoner. The latter states that Gendry was a boy already killed.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S02-E01v3.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode IV - Garden of Bones",
-            "episode_number" : "4",
-            "description" : "Catelyn tries to convince the Baratheon brothers to abandon their quarrel and unite against the Lannisters; but Stannis demands Renly submit to his command. Baelish visits her and offers a trade of Jaime for her daughters. Melisandre gives birth to a shadow creature. Sansa is abused by Joffrey in revenge for Robb's victories. Tyrion intervenes and in return, Joffrey is cruel to the prostitutes Tyrion sends him as \"gifts\". Tyrion releases Pycelle, but fires him from the Small Council. Tyrion also finds out about the incestuous relationship between Cersei and their cousin, Lancel, forcing the latter to spy on her by threatening to reveal it to Joffrey. Arya and Gendry are taken as captives to the castle of Harrenhal, where prisoners are tortured until death. Tywin arrives and stops the torture, picking her as his servant without knowing about her true identity. After her exhausting journey through the desert, Daenerys arrives at the gates of the prosperous city of Qarth, where Daxos, a member of the Council of Thirteen, convinces the others to let her caravan enter the city.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S02-E01v4.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode V - The Ghost of Harrenhal",
-            "episode_number" : "5",
-            "description" : "H'ghar, one of the three caged prisoners Arya saved, pledges to kill three people of her choosing in order to repay his debt to her. She accepts and first chooses the Tickler, the man who mortally tortured the captives. After Renly's death at the hands of Melisandre's shadowy assassin, Catelyn and Brienne, who are accused of the murder, are forced to flee from the camp. Excluding the Tyrells, Renly's forces submit to Stannis. Brienne swears loyalty to Catelyn. Theon sails from Pyke prepared to prove that he is a true Ironborn, with plans to capture Winterfell while Robb is absent. Tyrion learns from Lancel about the Wildfire, a burning substance mass produced to destroy Stannis' fleet and army during the upcoming siege. Tyrion takes control of the scheme. The Night's Watch arrives at an ancient fortress called the Fist of the First Men, where Jeor allows Snow to join the team led by a veteran named Halfhand in order to kill the enemy leader. In Qarth, Daxos proposes marriage to Daenerys in exchange for providing her with the wealth to conquer the Seven Kingdoms. Jorah convinces her to gain the support of the Westerosi people instead.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S02-E01v5.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode VI - The Old Gods and the New",
-            "episode_number" : "6",
-            "description" : "Myrcella, Cersei's daughter, is sent away from King's Landing. Theon manages to take Winterfell and executes Cassel, a henchman, for insulting him. Osha, the captured wildling, helps Brandon and Rickon escape. Robb reunites with the healer Maegyr. At the Fist of the First Men, Snow captures a Wildling named Ygritte, but gets separated from his patrol when she tries to escape and he is forced to chase her. Joffrey incites a riot at King's Landing, in which he is nearly killed and Sansa is nearly raped. Tywin allows Baelish to seek the allegiance of the Tyrells. An officer suspects Arya; and she has H'ghar kill him. Robb receives news of Theon's plans and sends men to retake Winterfell. At Qarth, Daenerys tries to procure a ship to take her people to Westeros, all the while keeping Daxos at bay. Daenerys' dragons are stolen.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S02-E01v6.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode VII - A Man Without Honor",
-            "episode_number" : "7",
-            "description" : "Theon begins tracking Brandon and Rickon. Tywin begins searching Harrenhal for the murderer. Ygritte continues her attempts to seduce Snow and, after a momentary lapse in Jon's concentration, she escapes and leads him into a trap. Still shaken from the riot, Sansa is horrified when she awakens to find that she has had her first menstruation and can thus bear Joffrey's children. Cersei warns her to love no one but her children, not even Joffrey. In Robb's camp, a failed escape attempt by Jaime leaves a guard dead, with some soldiers seeking retribution. In Qarth, the warlock Pree reveals to Daenerys that he stole her dragons, but gives her the opportunity to reunite with them before slaughtering the Council of Thirteen and establishing Daxos as the king. Theon presents to Luwin and his subjects the charred corpses of two boys, claiming that he has tracked down and killed Brandon and Rickon.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S02-E01v7.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode VIII - The Prince of Winterfell",
-            "episode_number" : "8",
-            "description" : "Robb learns that Catelyn has secretly freed Jaime, now escorted by Brienne, in order to ransom Sansa and Arya; he locks her in her tent and sends men to find them, also entering into a romantic relationship with Talisa. Yara arrives at Winterfell to bring Theon back to Pyke, blaming him for his actions. Tywin leaves Harrenhal to attack Robb, which leads Arya, Gendry and their friend Hot Pie to attempt an escape with the help of H'ghar, who agrees in order for Arya to refrain from naming H'ghar himself as the third man to kill. In King's Landing, Cersei attempts to blackmail Tyrion by abducting the prostitute, Ros, whom the former believes to be his secret lover. On the way to King's Landing, Stannis promises Seaworth to make him his Hand of the King. Beyond the Wall, the Wildling leader \"Rattleshirt\" leads the captured Snow and Halfhand to his king, Rayder. At the First of the First Men, the brothers of the Night's Watch find a hidden cache of dragonglass. In Qarth, Jorah agrees to accompany Daenerys into the House of the Undying to retrieve her dragons. Brandon and Rickon are revealed to be alive and hiding in Winterfell.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S02-E01v8.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode IX - Blackwater",
-            "episode_number" : "9",
-            "description" : "Baratheon's fleet assaults King's Landing. Leading the defense, Tyrion destroys many of the attacking ships with an exploding ship full of wildfire, forcing the former to attack on land. Sandor leads the defense outside the gate, but is defeated and returns inside, denouncing Joffrey and leaving. Joffrey also escapes. Tyrion convinces the Gold Cloaks to fight with him. Baratheon's forces make it inside the castle, but Tyrion leads his men behind the Baratheon forces via underground tunnels and attacks. Cersei goes to the throne room with Tommen, intending to kill him. Shae convinces Sansa to go to her chamber, where Sandor offers to take her back to Winterfell; but she decides to stay. As Tyrion is wounded and Cersei is about to poison Tommen, Tywin's forces, joined by Loras, arrive and defeat Baratheon's forces, with the latter forced to retreat.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S02-E01v9.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode X - Valar Morghulis",
-            "episode_number" : "10",
-            "description" : "Joffrey sets Sansa aside in favor of marrying Margaery while Tyrion fears for his and Shae's safety now that Tywin has replaced him as Hand and relieved Bronn from his command. Melisandre gives Stannis a new hope. Brienne and Jaime are spotted by three Stark soldiers, whom she kills. Catelyn fails to dissuade Robb from marrying Talisa. In Qarth, Daenerys ventures into the House of the Undying and successfully retrieves her dragons, who kill Pree. She then seals Daxos inside his own vault and claims his wealth for herself. In Winterfell, Theon tries to convince his men to fight Robb's army, but is knocked unconscious by them, who decide to leave. A dying Luwin convinces Brandon's party to go to the Wall. Arya, having escaped Harrenhal with Hot Pie and Gendry, receives the gift of a valuable coin from H'ghar, who magically changes his face. North of the Wall, Halfhand forces Snow to kill him to prove his loyalty to the wildlings while an army of White Walkers surrounds the Fist of the First Men.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S02-E01v10.jpg"
-        }]
-    },
-    {
-       "poster" : "Game_of_Thrones_Season_3.jpg",
-        "title" : "Game of Thrones - season 3",
-        "season_number" : "3",
-        "episodes" : [{
-            "title" : "Game Of Thrones : Episode I - Valar Dohaeris",
-            "episode_number" : "1",
-            "description" : "Some of the Night's Watchmen, including Tarly and Jeor, survive the White Walkers' attack and pledge to return to the Wall to warn the Seven Kingdoms. Snow is brought before Rayder, the \"King beyond the Wall\", and pledges his loyalty to the Wildlings. A scarred Tyrion tries to get Casterly Rock from Tywin, who promises other things instead. Margaery engages in charity work with the orphans of King's Landing. Baelish offers to help Sansa escape King's Landing. Ros advises Shae not to trust him. Davos is rescued by Saan, who does not want any more connections with Baratheon, and returned to Dragonstone, where he unsuccessfully tries to kill Melisandre, who blames him for convincing Baratheon not to let her join the battle, and is imprisoned. In Essos, Targaryen arrives in the city of Astapor to buy an army of brutally-trained slave soldiers, the \"Unsullied\". She is saved from an assassination attempt by the warlocks of Qarth by Selmy, the former Kingsguard commander, who pledges his loyalty.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S03-E01v1.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode II - Dark Wings, Dark Words",
-            "episode_number" : "2",
-            "description" : "Brienne continues escorting Jaime across the Riverlands to King's Landing. He engages her in a fight, which is interrupted by Bolton soldiers. After receiving the news of the sack of Winterfell and the disappearance of Bran and Rickon, Robb diverts his attentions from the war against the Lannisters to attend Catelyn's father's funeral in Riverrun, angering Karstark, who seeks vengeance for his sons who were killed by the Lannisters. Arya, Gendry and Hot Pie also make for Riverrun, but are waylaid by a rebel group, the \"Brotherhood without Banners\", and are taken to an inn, where the captured Sandor reveals the former's identity. Margaery and her grandmother Olenna, the \"Queen of Thorns\", convince Sansa to tell them about Joffrey's flawed character. Theon is tortured by unknown captors. Bran, Rickon, Osha and Hodor encounter the siblings Jojen and Meera, children of the Stark bannerman Howland. Jojen, who has been sharing Bran's strange dreams, tells him that he is a warg, able to enter the minds of animals.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S03-E01v2.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode III - Walk of Punishment",
-            "episode_number" : "3",
-            "description" : "Robb and Catelyn attend the funeral in Riverrun. Tywin decides to send Baelish to Lysa intending to have them married in order to secure her alliance, making Tyrion the new Master of Coin. While Hot Pie decides to stay at the inn, Arya and Gendry follow the Brotherhood. Learning of the massacre at the Fist of the First Men, Rayder sends Snow with a band of Wildlings to scale the Wall and attack the Watch while it is weakened. The surviving men of the Night's Watch arrive back at Craster's Keep, where Tarly witnesses Gilly give birth to a son. Theon is freed from torture and captivity by an unknown man, who later rescues him again. Melisandre leaves Dragonstone for an unknown mission, stating that the blood of a King is required for victory. Targaryen agrees to buy all the 8,000 Unsullied and the translator Missandei for one of her dragons, against Selmy's and Jorah's advice. Jaime persuades his captor Locke not to let Brienne be raped, but Locke cuts off the former's sword hand.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S03-E01v3.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode IV - And Now His Watch Is Ended",
-            "episode_number" : "4",
-            "description" : "Theon is betrayed by the rescuer, who returns him to the prison for torture. After a failed escape attempt, Jaime believes that he is lost without his sword hand; but Brienne, knowing what he did for her, urges him not to give up hope. Varys tells Tyrion how he became a eunuch, and that he now has in his power the magician who castrated him, advising Tyrion to be patient for vengeance. At Craster's keep, the surviving Night's Watchmen, starving, come into conflict with their host. Craster and Jeor are slain in the struggle and Tarly flees with Gilly and her son. Arya and Gendry are taken to the secret cave of the Brotherhood, meeting their leader, Dondarrion, who later sentences Sandor to trial by combat with him. Margaery proposes marriage between Sansa and Loras. Targaryen meets with Kraznys to complete the trade of a dragon for the Unsullied army. She tests the Unsullied, then orders them to kill their former masters, reclaims her dragon and frees the Unsullied, who all decide to follow her freely.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S03-E01v4.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode V - Kissed by Fire",
-            "episode_number" : "5",
-            "description" : "Tyrion convinces Olenna to pay for part of the royal wedding. Sansa tells Baelish about her decision to stay in King's Landing. The Lannisters discover the Tyrells' plot to marry off Sansa to Loras. To prevent the union, Tywin plans to marry Sansa to Tyrion, and Cersei to Loras, despite the siblings' protests. Stannis confesses his infidelity to his wife, Selyse, who then tells him she already knows and approves of it. His daughter, Shireen, sneaks into the dungeon to visit Seaworth and starts teaching him to read. Sandor kills Dondarrion and is released. However, Dondarrion is resurrected seemingly by the power of the Lord of Light. Gendry decides to stay with the Brotherhood, and Thoros and Dondarrion plan to ransom Arya to Robb. After being delivered to Bolton, Jaime confesses to Brienne why he killed Aerys. Robb executes Karstark after the latter murders two captive Lannister boys. With the Karstarks abandoning him, Robb plans to make a desperate alliance with Frey. Snow and Ygritte have sex. The Unsullied select a warrior called Grey Worm as their leader on Daenerys' order.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S03-E01v5.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode VI - The Climb",
-            "episode_number" : "6",
-            "description" : "In King's Landing, Tywin coerces Olena into agreeing to marry Loras to Cersei, who reveals to Tyrion that it was Joffrey who tried to have him killed during the siege. Tyrion confesses to Shae and Sansa about the upcoming marriage. Baelish tells Varys that he has caught Ros as Varys' informant and has given her to Joffrey, who kills her. In the Riverlands, Melisandre buys Gendry from the Brotherhood, foretelling that Arya will kill many people. Robb makes a new deal with Frey by agreeing to give him Harrenhal and marry his uncle Edmure to Frey's daughter, Roslin. Bolton plans to send Jaime to King's Landing, but refuses to send Brienne with him. At an unknown location, the mysterious man continues to torture Theon. In the North, tension arises between Osha and Meera. Beyond the Wall, Tarly continues his flight with Gilly and her son, while Snow and Ygritte manage to climb the Wall with two other Wildlings.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S03-E01v6.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode VII - The Bear and the Maiden Fair",
-            "episode_number" : "7",
-            "description" : "In the North, Jojen tells Bran they must go beyond the Wall to find the raven, to Osha's horror. Snow and Ygritte's relationship deepens, making fellow Wildling Orell angry. Theon is emasculated by his torturer. Talisa reveals to Robb that she is pregnant. Arya runs away from the Brotherhood, only to be captured by Sandor. Melisandre reveals to Gendry that his father was Robert. Shae tells Tyrion that she will not continue their relationship once he marries Sansa. Tywin counsels Joffrey and discusses Daenerys, with the former dismissing the danger she might pose. Daenerys reaches the city of Yunkai and declares war on them. Bolton departs Harrenhall for Edmure's wedding while Jaime says farewell to Brienne and departs for King's Landing. On the road, he finds out that Locke refused Brienne's father's ransom. Jaime returns to Harrenhall to find Brienne in a pit fighting a bear. He leaps in and saves Brienne and departs once more, this time with her.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S03-E01v7.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode VIII - Second Sons",
-            "episode_number" : "8",
-            "description" : "King's Landing hosts Tyrion and Sansa's wedding. Cersei shows displeasure upon Margaery and Loras. At the wedding feast Tyrion gets drunk and causes a scene, with Tywin demanding he make a baby soon. In their bedroom, Tyrion tells Sansa that they will not consummate their marriage until she wants to. Sandor reveals to Arya that they are heading for the Twins to ransom her to Robb. Stannis releases Seaworth, demanding he respect Melisandre, who arrives in Dragonstone with Gendry, whom she seduces and extracts blood from him with three leeches. In a magical ritual, Stannis casts them into the fire naming three usurpers: Robb, Balon and Joffrey. Daenerys finds out that Yunkai has employed a mercenary company called the \"Second Sons\". One of the lieutenants named Naharis kills the other leaders and pledges his and the company's loyalty to Daenerys. Tarly and Gilly are attacked by a White Walker, whom the former destroys by the dragonglass dagger.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S03-E01v8.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode IX - The Rains of Castamere",
-            "episode_number" : "9",
-            "description" : "Tarly, Gilly and her son arrive at the Wall. During a thunderstorm, Bran enters Hodor's mind to calm him down, an ability not possessed by any Wildling. Nearby, Snow refuses to kill a farmer, whom Ygritte kills before Snow is attacked by the other Wildlings. Bran uses his warg ability to save Snow, who kills Orell before escaping, leaving a furious Ygritte behind with chief Giantsbane. Osha, Rickon and his direwolf depart for the Last Hearth, while Bran and his remaining company plan to go beyond the Wall. Daenerys sends Mormont, Naharis and Grey Worm to infiltrate Yunkai and open the city gate for her army. Yunkai soon falls to her forces. Robb arrives at the Twins and apologizes to Walder, who feigns acceptance. Edmure marries Roslin and they leave to consummate their marriage before Walder's men murder Catelyn, Talisa and most of the Stark bannermen, while Bolton, revealed to be loyal to the Lannisters, kills Robb. Arya also arrives at the Twins and witnesses a part of the massacre, but Sandor knocks her unconscious and carries her to safety.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S03-E01v9.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode X - Mhysa",
-            "episode_number" : "10",
-            "description" : "The mastermind of the massacre is revealed to be Tywin, who awards the House Frey the Seat of Riverrun and appoints Bolton as the Warden of the North. Theon's captor is revealed to be Ramsay, Bolton's bastard who let the former's men leave Winterfell in exchange for surrendering him. Against Balon's wishes, Yara decides to rescue Theon. Arya and Sandor kill some Frey soldiers mocking Robb's death. Arriving in the capital with Brienne, Jaime is reunited with Cersei. In the North, Tarly's party encounters Bran's and gives them the Dragonglass weapons before arriving back at Castle Black, where he and Maester Aemon send ravens to alert the Seven Kingdoms to the White Walkers. Being hit several times, Jon still manages to escape from Ygritte and returns to Castle Black. In Dragonstone, Seaworth helps Gendry escape, while Stannis decides to head north and aid the Watch against the White Walker threat, forgiving the former and keeping him. In Essos, the freed slaves of Yunkai receive Daenerys as their \"mother\".",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S03-E01v10.jpg"
-        }]
-    },
-    {
-       "poster" : "Game_of_Thrones_Season_4.jpg",
-        "title" : "Game of Thrones - season 4",
-        "season_number" : "4",
-        "episodes" : [{
-            "title" : "Game Of Thrones : Episode I - Two Swords",
-            "episode_number" : "1",
-            "description" : "Tywin oversees the reforging of Ice, the Stark ancestral sword, into two new swords, one for Jaime, who tries to deal with the loss of his sword hand and Cersei's love. Prince Oberyn Martell, on behalf of his brother, Prince Doran of Dorne, arrives in King's Landing with his paramour, Ellaria Sand, to attend the royal wedding and is welcomed by Tyrion. Oberyn openly reveals to Tyrion his motive for his visit: revenge against the Lannisters for the rape and murder of his sister, Elia, wife of Prince Rhaegar. In the North, while Styr and his group of cannibal Thenns reinforce Tormund, Ygritte, and the other wildlings, Jon is released by Maester Aemon after confessing what he did during his time with the wildlings to gain information. In the Riverlands, Arya and the Hound reclaim her sword, Needle, from Polliver, killing him and his men. In Essos, Daenerys leads her army on a march towards Meereen, the last of the three great slave cities, though she is troubled by how her dragons are becoming less tame as they grow.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S04-E01v1.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode II - The Lion and the Rose",
-            "episode_number" : "2",
-            "description" : "Roose Bolton returns to the Dreadfort, where he blames Ramsay for mistreating Theon, who has been brutalized into a subservient persona called 'Reek'. The former decides to find and kill the remaining Stark children, Bran and Rickon, who threaten the legitimacy of his new title, while tasking Ramsay to reclaim the territories under Ironborn occupation. In Dragonstone, Melisandre orders several people to be burned as a tribute to the Lord of Light, to the delight of Queen Selyse and the disgust of Davos and Shireen. In King's Landing, Tyrion ends his relationship with Shae to protect her from his family and has her shipped off to Pentos. Jaime begins training his left-handed swordplay with the help of Bronn. King Joffrey and Margaery Tyrell are wed. Later, at the Royal Wedding feast, tensions between Joffrey and Tyrion grow — just before the former succumbs to poisoned wine and dies. A grief-stricken Cersei accuses Tyrion of the murder and has him arrested, while Ser Dontos, a former knight, advises Sansa to leave with him in order to survive.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S04-E01v2.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode III - Breaker of Chains",
-            "episode_number" : "3",
-            "description" : "Tywin begins grooming Tommen to be the next king and enlists Oberyn and Mace Tyrell as his fellow judges for the impending trial of Tyrion, who decides to pick Jaime as his witness. Littlefinger, who hired Ser Dontos, kills him and smuggles Sansa out of King's Landing. In the Riverlands, Arya and Sandor encounter a benevolent farmer and his daughter, whom Sandor robs, to the Arya's disgust. In Dragonstone, Davos tries to figure out how to replenish Stannis' depleted forces and requests a loan from the Iron Bank of Braavos to pay for a group of mercenaries called the \"Golden Company\". In the North, Sam, fearing for Gilly's safety, has her and the baby moved out of Castle Black to nearby Mole's Town. Meanwhile, the wildlings continue to raid northern villages. The Night's Watch receive word that the band of Night's Watch mutineers have set up camp at Craster's Keep. Jon tells the Watch to organize a party to attack the mutineers, as they cannot risk having any information about the weakness of Castle Black's defenses leak to Mance Rayder's approaching army. Daenerys lays siege to Meereen.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S04-E01v3.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode IV - Oathkeeper",
-            "episode_number" : "4",
-            "description" : "Daenerys successfully captures Meereen amidst a slave revolt and immediately seeks justice for the slain slave children by nailing 163 masters to posts. At sea, Littlefinger admits to Sansa that he was involved in Joffrey's death. In King's Landing, Olenna, who is planning to leave, also implies to Margaery that she was involved in the poisoning and convinces her to seduce Tommen before Cersei has a chance to turn him against her. Jaime meets with Tyrion and is convinced of his innocence. However, Cersei is adamant about Tyrion's guilt and orders Jaime to hunt down and kill Sansa. Jaime instead tasks Brienne with finding and protecting her, giving her both his Valyrian sword and Podrick as her squire. In the North, in an effort to get rid of Jon, Alliser Thorne and Janos Slynt conspire to allow Jon to lead an expedition against the mutineers, who have captured Bran's party and forced him to reveal his identity. Further north, a White Walker takes Craster's last newborn son to a secret ritual site, where he is transformed into a Walker.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S04-E01v4.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode V - First of His Name",
-            "episode_number" : "5",
-            "description" : "Tommen is crowned king. Cersei meets with Margaery, Tywin, and Oberyn, hoping to sway them to her advantage in the coming trial against Tyrion. In the Vale, Littlefinger takes Sansa to the Eyrie, where she is to pose as his niece. He is then pressured to marry Lysa Arryn that same day. It is revealed that the pair killed Jon Arryn while framing the Lannisters. On the Kingsroad, the Hound catches Arya practicing her water dancing and angers her by mocking that fighting style and Syrio Forel. On the road, Brienne finds out that Podrick has no practical skills as a squire. However, she is impressed with the fact that he killed a Kingsguard in order to protect Tyrion. Beyond the Wall, Jon's group attacks the mutineers. Locke attempts to kidnap Bran in the confusion but is killed by Hodor, warged into by Bran. Bran and his company then continue their trek north while Jon's party kills all of the mutineers and burns down Craster's Keep. In Meereen, after Jorah informs her about the fallback to slavery of Astapor and Yunkai, Daenerys decides to postpone her invasion of Westeros to bring order to Slaver's Bay and pronounces herself queen.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S04-E01v5.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode VI - The Laws of Gods and Men",
-            "episode_number" : "6",
-            "description" : "In Essos, Davos manages to convince the Iron Bank to back Stannis while also resecuring Salladhor Saan and his pirates to Stannis' cause. In Meereen, Daenerys attempts to take on her new role as queen as she listens to the requests of her subjects, including nobleman Hizdahr zo Loraq and a man whose goats were killed by Daenerys' increasingly uncontrollable dragons. In the Dreadfort, Yara leads an attack in an effort to rescue Theon, who refuses to come with her, forcing her to escape. Ramsay rewards Theon for being obedient and, in order to take Moat Cailin, tasks him to pretend to be \"Theon\" instead of \"Reek\". In King's Landing, Tywin puts a bounty on the Hound's head and instructs Varys to continue spying on Daenerys. Later that day, Tyrion is brought to trial for Joffrey's murder. However, all of the witnesses brought in testify against him, including Ser Meryn Trant, Grand Maester Pycelle, Cersei, Varys and, to Tyrion's shock, Shae, who gives a solid testimony. Angry, humiliated, and defeated, Tyrion demands a trial by combat.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S04-E01v6.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode VII - Mockingbird",
-            "episode_number" : "7",
-            "description" : "Cersei appoints the Mountain as her champion in the upcoming trial by combat, while both Jaime and Bronn refuse to fight for Tyrion. Oberyn steps up, seeking a chance to avenge Elia by killing the Mountain, who raped and killed her during the rebellion. Daenerys has sex with Daario before sending him off on a mission to deal with the resurgent slavers at Yunkai. Melisandre and Selyse prepare for their departure from Dragonstone, intending to take Shireen as well. Alliser Thorne rejects Jon's offer to seal the tunnel. Brienne and Podrick meet Hot Pie and learn of Arya's adventures. They then resolve to travel to the Vale, deducing she would go there in search of living relatives. In the Vale, Lysa is enraged when she witnesses Littlefinger kissing Sansa. Later, she threatens to push Sansa through the Moon Door, but Littlefinger intervenes and pushes Lysa to her death.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S04-E01v7.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode VIII - The Mountain and the Viper",
-            "episode_number" : "8",
-            "description" : "The wildlings attack Mole's Town. Gilly is discovered by Ygritte, who spares her. Ramsay forces Theon to get the Ironborn to surrender Moat Cailin. The Ironborn surrender in hopes of returning home but are flayed and slaughtered by Ramsay. As a reward for securing Moat Cailin, Roose legitimizes Ramsay as a Bolton. In the Vale, Sansa reveals to a council investigating Lysa's death her true identity and convinces the council of Littlefinger's innocence. While Littlefinger starts grooming Robin Arryn, Lysa's son, as the Lord of the Vale, the Hound and Arya arrive and are informed of Lysa's death. In King's Landing, the trial by combat starts. Oberyn gains the upper hand, but his desire to force the Mountain to confess his crimes gives the latter the chance to grab the former. He kills Oberyn by crushing his skull while confessing to the rape and murder of Elia. Tywin sentences Tyrion to death. In Essos, Barristan Selmy receives a letter intended for Jorah that pardons him as a reward for spying on Daenerys, who exiles him from Meereen as a result.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S04-E01v8.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode IX - The Watchers on the Wall",
-            "episode_number" : "9",
-            "description" : "The Night's Watch prepares for the wildling invasion. Gilly and her son arrive at Castle Black, where Sam hides them in an underground room. The wildlings attack from both sides. Tormund's army gets through from the south and engages the Night's Watch. One giant manages to break through the tunnel leading into Castle Black but is killed by Grenn and five others, at the cost of their own lives. Alliser Thorne goes to fight in the southern part, leaving Janos Slynt in charge. However, Slynt proves to be incompetent and is tricked into going down the main level, effectively leaving Jon in charge. After watching Jon kill Styr, Ygritte prepares to kill him but is shot by Olly. Jon holds her in his arms as she dies. With the help of Jon's direwolf, Ghost, the Night's Watch secure the ground level of Castle Black, leading to Tormund's arrest. The wall climbers are obliterated by a massive scythe launched by the Watch. The wildlings retreat but not for long, Jon predicts. Seeing no other choice, Jon goes beyond the Wall to find and kill Mance Rayder.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S04-E01v9.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode X - The Children",
-            "episode_number" : "10",
-            "description" : "Jon's negotiation with Mance Rayder is interrupted when Stannis and his army overrun the wildling camp, taking Mance as prisoner on the former's suggestion. Bran's party comes upon the large heart tree from his visions but is attacked by skeletal beasts, who kill Jojen; the others are saved by a child, who takes them to the three-eyed raven, revealed to be an old man. In the Vale, Brienne and Podrick come across Arya and the Hound, whom Brienne engages and critically wounds. He begs Arya to kill him, but she refuses and leaves with Brienne searching for her. She enters a ship headed to Braavos, intending to reunite with Jaqen H'ghar. Meanwhile, in King's Landing, Cersei orders Qyburn to do anything to save the Mountain, who is poisoned by Oberyn's blade. She gets involved with Jaime, who releases Tyrion. Tyrion later finds Shae in Tywin's bed and strangles her to death. He then confronts Tywin in the privy and kills him, escaping the city with Varys. In Meereen, Daenerys is visited by a citizen who brings the charred remains of his daughter, who was burned by Drogon. As a precaution, Daenerys chains her two other dragons in the catacombs.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S04-E01v10.jpg"
-        }]
-    },
-    {
-       "poster" : "Game_of_Thrones_Season_5.jpg",
-        "title" : "Game of Thrones - season 5",
-        "season_number" : "5",
-        "episodes" : [{
-            "title" : "Game Of Thrones : Episode I - The Wars to Come",
-            "episode_number" : "1",
-            "description" : "In a flashback, a witch tells a teenage Cersei that someone younger and more beautiful than herself will one day steal her accomplishments. In the present, Tywin is buried and Lancel returns, now a devoutly religious man and a member of the \"Sparrows\". In Pentos, a despondent Tyrion agrees to accompany Varys to Meereen to support Targaryen's claim on the Iron Throne. In Meereen, the insurgent \"Sons of the Harpy\" murder an Unsullied, forcing Daenerys to launch more restrictive measures without respecting the old traditions. Missandei gets suspicious when she realizes that the Unsullied visit brothels. Daenerys's locked-away dragons attack her when she checks on them. In the Vale, Baelish puts Arryn in the care of House Royce and leaves with Sansa. At the Wall, Stannis seeks to enlist the Wildlings in his war against Roose. Snow is unable to convince Rayder to accept Stannis's authority. The latter has Mance burned alive, though Snow shoots him with an arrow to kill him quickly.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S05-E01v1.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode II - The House of Black and White",
-            "episode_number" : "2",
-            "description" : "Arya arrives in Braavos and is accepted into the \"House of Black and White\" by H'ghar, who calls himself and his colleagues \"no one\". Jaime tells Cersei he is going to Dorne to sneak out Myrcella, who is promised to Prince Doran's son, and recruits Bronn to assist him; Podrick recognises Baelish and Sansa in a tavern; Brienne offers Sansa her protection, but is rebuffed. Baelish demands her to stay with them, but she refuses and escapes with Podrick. However, she decides to follow Sansa secretly. Stannis offers Snow legitimacy and lordship of Winterfell if he leaves the Night's Watch to help him, but Snow declines; Tarly nominates him as a candidate for Lord Commander, and he is elected by the casting vote of Aemon. Daenerys faces a riot after she decides to execute a former slave who murdered a captured member of the Sons of the Harpy before he could be tried. Drogon reappears to her, but leaves again.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S05-E01v2.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode III - High Sparrow",
-            "episode_number" : "3",
-            "description" : "Margaery, newly wed to Tommen, manipulates him into planning to send Cersei to Casterly Rock. Baelish conducts Sansa to Winterfell to cement an alliance with Roose through her marriage to Ramsay, behind the Lannisters' back. Brienne decides to train Podrick. To adapt in the House of Black and White, Arya throws all her personal effects into the river except for Needle, which she hides in a pile of rocks. At Castle Black, Snow names Thorne First Ranger, but Slynt refuses to follow Snow's orders that he leave to rebuild the Greygard ruin. Snow executes Slynt himself. Lancel finds the High Septon in a compromising situation in a brothel, punishing him by forcing him to walk the streets completely nude. The High Septon complains to Cersei, who imprisons him instead. She meets the High Sparrow, approving the Sparrows' actions. Tyrion and Varys arrive in Volantis and visit a brothel, where the former is abducted by Mormont, intending to take him \"to the queen\".",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S05-E01v3.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode IV - Sons of the Harpy",
-            "episode_number" : "4",
-            "description" : "Cersei provides weapons for the Sparrows, who arrest Loras. Margaery is enraged, but Tommen proves too weak to arrange his release. Melisandre tries to seduce Snow in an attempt to convince him to go to Winterfell with Stannis. In Winterfell, Baelish prepares to return to King's Landing. Before leaving, he tries to dispel Sansa's misgivings towards Ramsay, telling her that even if Stannis does not defeat the Boltons and rescue her, she can easily manipulate Ramsay. Bronn and Jaime land secretly in Dorne; they encounter and kill four horsemen. The Sand Snakes learn from a sea captain that Jaime has come to Dorne for Myrcella; Ellaria convinces the Sand Snakes to plan to avenge the death of Oberyn by abducting Myrcella before Jaime can intervene. Mormont plans to redeem himself to Daenerys by giving Tyrion to her as a prisoner. In Meereen, Loraq makes another appeal to her to reopen the fighting pits; the Sons of the Harpy ambush an Unsullied patrol inside the citadel; Grey Worm is critically wounded and Selmy is killed.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S05-E01v4.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode V - Kill the Boy",
-            "episode_number" : "5",
-            "description" : "Cersei provides weapons for the Sparrows, who arrest Loras. Margaery is enraged, but Tommen proves too weak to arrange his release. Melisandre tries to seduce Snow in an attempt to convince him to go to Winterfell with Stannis. In Winterfell, Baelish prepares to return to King's Landing. Before leaving, he tries to dispel Sansa's misgivings towards Ramsay, telling her that even if Stannis does not defeat the Boltons and rescue her, she can easily manipulate Ramsay. Bronn and Jaime land secretly in Dorne; they encounter and kill four horsemen. The Sand Snakes learn from a sea captain that Jaime has come to Dorne for Myrcella; Ellaria convinces the Sand Snakes to plan to avenge the death of Oberyn by abducting Myrcella before Jaime can intervene. Mormont plans to redeem himself to Daenerys by giving Tyrion to her as a prisoner. In Meereen, Loraq makes another appeal to her to reopen the fighting pits; the Sons of the Harpy ambush an Unsullied patrol inside the citadel; Grey Worm is critically wounded and Selmy is killed.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S05-E01v5.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode VI - Unbowed, Unbent, Unbroken",
-            "episode_number" : "6",
-            "description" : "H'ghar takes Arya to a chamber with the faces of all the people that have died in the House of Black and White. Jaime and Bronn reach the Water Gardens, where they find Myrcella and are attacked by the Sand Snakes. The fight is broken up by Dornish guards, who arrest everyone. Mormont and Tyrion run into slavers, whom Tyrion manages to convince to take them to the fighting pits of Meereen. Baelish informs Cersei of Roose's plan to marry Sansa to Ramsay, and convinces her to allow him to lead the knights of the Vale to Winterfell to defeat the winning party of the conflict between Roose and Stannis, being named Warden of the North in return. Olenna arrives in King's Landing and warns Cersei that the imprisonment of Loras has put their alliance in peril. At Loras' inquest, Loras and Margaery both deny his homosexuality. The male prostitute Olyvar contradicts their testimony, and she is arrested for lying to the gods. In Winterfell, Sansa is married to Ramsay, who rapes her in front of Theon.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S05-E01v6.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode VII - The Gift",
-            "episode_number" : "7",
-            "description" : "Snow leaves for Hardhome with Giantsbane and some rangers. Aemon dies shortly after. Gilly is attacked by two Watchmen. Tarly intervenes and is overpowered until Ghost arrives and forces the duo to leave. Tarly and Gilly develop a romantic relationship. Sansa asks Theon to help her escape Winterfell, but he instead informs Ramsay, who flays the woman working for Brienne. At Stannis' army's camp, Melisandre suggests sacrificing Shireen, which he refuses. Mormont and Tyrion are sold to slaver Qaggaz. The two are brought to a local fighting pit that Daenerys and her consort happen to be visiting in preparation for the coming games at Daznak's pit. Mormont defeats the other slaves and reveals his identity to her, and that he brought Tyrion as a \"gift\" for her. In Dorne, Myrcella tells Jaime that she wants to marry Trystane, Doran's son. Olenna's demand for Loras and Margaery's release is declined by the High Sparrow. Later, the High Sparrow arrests Cersei due to her former incestuous relationship with Lancel.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S05-E01v7.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode VIII - hardhome",
-            "episode_number" : "8",
-            "description" : "Cersei learns that her uncle Kevan is appointed as the Hand. She is left thirsty in order to force her to confess, which she does not. Arya assumes the identity of Lana, an oyster merchant. H'ghar tasks her to study a man who sells marine insurance, but has defrauded benefactors. She is to learn everything about the insurer, and then poison him. Theon tells Sansa that he faked the deaths of Brandon and Rickon. Ramsay suggests to Roose that they move on Stannis and asks for twenty skilled men. In Meereen, Tyrion convinces Daenerys to spare Mormont's life and she exiles him again. Mormont goes back to Yezzan and asks permission to fight in the pits. She accepts Tyrion into her council. Arriving in Hardhome, Snow and Giantsbane convince about five thousand wildlings to join them before Hardhome is attacked by an army of wights. Snow kills a White Walker with his Valyrian-steel sword. As he, Giantsbane and the other survivors sail away, they witness the Night's King reanimating the deceased wildlings as wights.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S05-E01v8.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode IX - The Dance of Dragones",
-            "episode_number" : "9",
-            "description" : "During a snowstorm, Stannis' camp is sabotaged when Ramsay's party destroys the camp's siege equipment and food stores, while inflicting heavy losses on the army's horses. Sending Seaworth to the Wall to ask for supplies, Stannis reluctantly decides to sacrifice Shireen, burning her alive at the stake, while she desperately cries out for her parents. Snow and the others return to the Wall, allowing the wildlings to pass South. In Dorne, Doran permits Jaime and Bronn to return to King's Landing with Myrcella, provided Trystane accompany them and serve on the small council in Oberyn's stead. The former also pardons Sand and her daughters. In Braavos, Arya spots Trant accompanying Mace, Margaery's father and the Master of Coin. In Meereen, the fights at Daznak's pit begin, and Daenerys is stunned to see Mormont amongst the combatants. His triumph is interrupted by a fierce attack by the Sons of the Harpy, who quickly surround Daenerys and her supporters, including Mormont. Just as all hope seems lost, Drogon arrives, and she mounts it and flies away from the pit, her followers watching in awe.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S05-E01v9.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode X - Mother's Mercy",
-            "episode_number" : "10",
-            "description" : "Selyse hangs herself and half of Stannis' forces desert him while Melisandre flees to Castle Black; Stannis is defeated by the Boltons and consequently killed by Brienne. Sansa attempts to escape, but is confronted by Myranda, whom Theon kills; and the duo escape Winterfell together. Cersei confesses her former relationship with Lancel and is forced to face atonement by walking the streets fully naked. Upon reaching the Red Keep, Qyburn introduces a new member of the Kingsguard with complete loyalty. Jaime, Myrcella, Bronn and Trystane sail from Dorne. She dies of poison by Sand in the ship. Arya infiltrates a brothel and kills Trant. She is blinded for violating the terms of the Faceless Men. Varys arrives in Meereen to rule the city with Tyrion, Grey Worm and Missandei, while Naharis and Mormont leave to search for Daenerys, who, far away, is found by a large group of the Dothraki. Tarly, Gilly and her child leave for Oldtown for the former to become a Maester. Snow is stabbed several times by mutineers, including Thorne and Olly.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S05-E01v10.jpg"
-        }]
-    },
-    {
-       "poster" : "Game_of_Thrones_Season_6.jpg",
-        "title" : "Game of Trones - season 6",
-        "season_number" : "6",
-        "episodes" : [{
-            "title" : "Game Of Thrones : Episode I - The Red Woman",
-            "episode_number" : "1",
-            "description" : "Jon Snow's corpse is found by Ser Davos, Edd and a few other loyalists; Davos and the others take him inside and lock themselves behind a door with him, while Edd goes to get help. Thorne assumes command of the Watch. At Winterfell, Ramsay mourns for Myranda, while Sansa and Theon escape through the woods. Ramsay's men catch up with them, and are about to take them captive, when Brienne and Pod arrive, kill the men, and the former is accepted into Sansa's service. In King's Landing, Cersei receives Jaime, who arrives with Myrcella's body. Jaime promises Cersei they will take their revenge. Obara and Nymeria murder Trystane, on his way home from King's Landing, while in Sunspear, Doran and Areo Hotah are killed by Ellaria and Tyene, after the former learns of Myrcella's death. In Meereen, Tyrion and Varys find all the ships burning in the harbor. Jorah and Daario continue to track Daenerys, who is taken by the Dothraki to Khal Moro. In Braavos, Arya lives on the streets as a beggar, where she is beaten by the Waif. In her chamber, Melisandre removes her bejeweled necklace as she reveals her true appearance as an old crone.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S06-E01v1.png"
-        },
-        {
-            "title" : "Game Of Thrones : Episode II - Home",
-            "episode_number" : "2",
-            "description" : "Brandon visits Winterfell in a vision of the past, and sees Eddard, Benjen, and their sister Lyanna, as well as a young Hodor. Edd arrives with Tormund and a group of Wildlings, imprisoning Thorne and the other mutineers. Tommen asks Cersei to teach him to be strong. Tyrion learns that Astapor and Yunkai have reverted to slavery, and releases Rhaegal and Viserion from their chains. In Braavos, Arya is attacked by the Waif before H'ghar appears and recruits her again. Walda, Roose's wife, gives birth to a boy, prompting Ramsay to murder Roose, her, and the baby. Brienne reveals to Sansa that Arya is still alive. Sansa permits Theon's return to the Iron Islands, where his uncle Euron reappears and murders King Balon. Seaworth persuades Melisandre to attempt to resurrect Jon. At first, her attempts seem to fail. However, once everyone leaves the room, he awakens.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S06-E01v2.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode III - Oathbreaker",
-            "episode_number" : "3",
-            "description" : "On a boat on their way to Oldtown, Tarly reveals his intent to leave Gilly and her baby with the former's family at Horn Hill while he trains to be a Maester. In a vision of the past, Brandon sees Eddard and Howland, Meera's father, defeat a group of Kingsguard loyal to the Targaryens at the Tower of Joy in Dorne. Varys discovers that the masters of Astapor, Yunkai, and Volantis have been financing the Sons of the Harpy. In King's Landing, Tommen converses with the High Sparrow while Jaime and Cersei interrupt a small council meeting, only to be shunned by Kevan and the Tyrells. Cersei's bodyguard is revealed to be Gregor. Arya trains rigorously with the Waif and her sight is returned to her once she has accepted herself as \"no-one\". In Winterfell, Lord Umber asks Ramsay for help in protecting the North from the Wildlings, bringing Rickon and Osha as a gift, along with the head of Shaggydog, Rickon's direwolf. Jon executes Thorne, Olly and the other officers involved in his assassination. He renounces his oath and puts Tollett in charge of the Night's Watch.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S06-E01v3.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode IV - Book of the Stranger",
-            "episode_number" : "4",
-            "description" : "Sansa's party arrives at Castle Black as she is reunited with Jon. In Meereen, Tyrion meets with the slave masters of Slaver's Bay to offer peace if they will end slavery within a period of seven years, an action that angers the former slaves. Baelish returns to the Vale to mobilize their soldiers against Ramsay. Naharis learns about Mormont's greyscale as they arrive in Vaes Dothrak. In King's Landing, Margaery is permitted to visit Loras while Cersei, Jaime, Kevan and Olenna put aside their differences and plan a defeat of the Sparrows. Theon arrives at Pyke and explains to Yara that he will support her claim at the Kingsmoot. In Winterfell, Osha attempts to assassinate Ramsay but is killed by him. Ramsay sends a letter to Jon, threatening harm to Rickon if Sansa is not returned. She convinces Jon to march south in order to take back Winterfell. Daenerys meets with the Khals in the temple of the Dosh Khaleen; after they refuse to serve her, she burns them and Moro to death. When she emerges unhurt, the Dothraki kneel to her.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S06-E01v4.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode V - Door",
-            "episode_number" : "5",
-            "description" : "Sansa meets Baelish, who offers the support of the Vale and tells her that Brynden Tully, her great uncle, is gathering an army in Riverrun; she initially refuses his help. Jon and Sansa leave Castle Black to gather support from the other Northern houses, with her sending Brienne to Brynden. In Braavos, Arya is given a second chance to prove her loyalty by killing an actress. Beyond the Wall, Brandon learns that the White Walkers were created by the Children of the Forest to protect themselves from the First Men. In the Iron Islands, Euron wins the Kingsmoot despite confessing to killing Balon, causing Yara and Theon to flee. In Essos, Daenerys learns about Mormont's greyscale, ordering him to find a cure and return. In Meereen, a red priestess named Kinvara meets Tyrion and Varys and promises to support Daenerys. Brandon's unaccompanied vision causes him to be touched by the Night King, making the cave vulnerable. The Night King, along with White Walkers and hordes of wights, attack the cave, killing the Three-Eyed Raven, several Children, Summer, and Hodor, whose younger self is shown to have been rendered mentally disabled by Brandon's interference.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S06-E01v5.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode VI - Blood of My Blood",
-            "episode_number" : "6",
-            "description" : "Bran and Meera are saved by Benjen, who reveals that he was turned by the White Walkers, but was later unturned by the Children using Dragonglass. Samwell and Gilly reach the Tarly family estate Horn Hill. After Sam's father, Randyll, insults her for being a Wildling, Sam decides to take her with him to the Citadel, also stealing House Tarly's ancestral Valyrian steel sword, Heartsbane. Arya warns the actress about her mission to assassinate her, recovering the Needle. H'ghar approves of the Waif's request to kill Arya. Jaime attempts to rescue Margaery from the Faith Militant, only to find she has repented and Tommen has forged an alliance with the Faith. He removes Jaime from the Kingsguard and orders him to help Walder Frey, who is holding Edmure Tully hostage, and to retake Riverrun from Brynden. Daenerys mounts Drogon, and declares to the Dothraki that they will sail across the Narrow Sea to conquer Westeros.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S06-E01v6.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode VII - The Broken Men",
-            "episode_number" : "7",
-            "description" : "Margaery convinces Olenna to return to Highgarden after the High Sparrow says that he will pursue Olenna following her attempt to engage the Faith. Jon, Sansa, and Davos recruit the Wildlings and House Mormont to their cause, but remain outnumbered by the Boltons. In desperation, Sansa writes a letter begging for aid. Jaime arrives in Riverrun with Bronn, assuming control of the siege. The former goes to parley with Brynden, ultimately being unsuccessful. Theon and Yara spend their last night in Volantis, deciding to sail to Meereen to ally with Daenerys. In Braavos, Arya prepares to return to Westeros, but is attacked by the Waif. Arya is badly wounded but escapes. Sandor is revealed to be alive, having been saved by a Septon and his followers. When men from the Brotherhood threaten and eventually slaughter the group, Sandor decides to get revenge.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S06-E01v7.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode VIII - No One",
-            "episode_number" : "8",
-            "description" : "Tommen abolishes trial by combat, much to the dismay of Cersei, who planned to win using Gregor. Brienne arrives in Riverrun and attempts to persuade Brynden to surrender, without success. After Jaime threatens to kill Edmure's young son, he enters the castle and orders the Tully forces to stand down, but Brynden is killed fighting the Lannisters. Brienne and Podrick escape. Varys departs Meereen on an unknown mission. Meereen comes under naval assault by the slaving cities, but Daenerys returns. Sandor kills the outlaws who sacked his village and encounters Dondarrion and Thoros, who explain that the outlaws were renegades. They try to convince Sandor to join the Brotherhood. Arya is taken in by the actress, who heals her wounds. In the morning, the Waif arrives, kills the actress and chases Arya through the streets of Braavos. Arya leads the Waif into the catacombs and kills her. She returns the Waif's face to the House and declares that she is Arya Stark of Winterfell and she is going home.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S06-E01v8.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode IX - Battle of Bastards",
-            "episode_number" : "9",
-            "description" : "Daenerys meets with the slave masters to negotiate terms of surrender, but they refuse it. Riding Drogon, as Rhaegal and Viserion assist, Daenerys attacks and burns the slavers' fleet. Grey Worm kills two of the masters, leaving one to tell of what he had witnessed. After the battle, Theon and Yara meet with Daenerys and Tyrion and agree to an alliance. Near Winterfell, the Stark and Bolton armies meet on the field. Ramsay feigns setting Rickon free, but kills him with a long-distance arrow before Jon can save him. In the battle, the Stark forces are pinned by Bolton soldiers, but are rescued by the Knights of the Vale. Ramsay flees inside Winterfell, but the Wildling giant Wun Wun, having taken numerous arrows to his body, manages to break down the gate before succumbing to his wounds. Jon brutally beats Ramsay and takes him prisoner. Sansa later visits Ramsay's cell in the kennels and watches as his starving hounds devour him.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S06-E01v9.jpg"
-        },
-        {
-            "title" : "Game Of Thrones : Episode X - The Winds of Winter",
-            "episode_number" : "10",
-            "description" : "Before her trial, Cersei destroys the Sept of Baelor by wildfire, killing the High Sparrow, Margaery, Mace and Loras Tyrell, Lancel and Kevan Lannister, along with hundreds of King's Landing nobles and the Faith Militant, while Qyburn has Pycelle killed. Tommen commits suicide. In Dorne, Varys meets with Olenna and Ellaria, seeking to form an alliance between Daenerys and their houses against the Lannisters. Seaworth confronts Melisandre over the death of Shireen; Jon banishes her from Winterfell. The Wildlings, the Knights of the Vale and the surviving Houses of the North pledge loyalty to Jon as the new King in the North. Sansa stops Baelish from getting intimate with her. Arya kills Walder Frey and his sons. Tarly and Gilly reach the Citadel in Oldtown. Benjen tells Brandon and Meera to pass the Wall without him. Brandon uses his powers and learns that Jon is actually the son of Lyanna and Rhaegar, being adopted by Eddard after she died during Robert's rebellion. Jaime returns to King's Landing to find Qyburn crowning Cersei the new monarch of the Seven Kingdoms. Daenerys leaves Naharis and the Second Sons to rule Meereen before she sets sail to Westeros with her other companions, armies and dragons.",
-            "main_cast" : [],
-            "episode_image" : "Game_of_Trones_S06-E01v10.jpg"
-        }]
-    }]
-}    
+            "poster": "Game_of_Thrones_Season_6.jpg",
+            "title": "Game of Trones - season 6",
+            "season_number": "6",
+            "episodes": [
+                {
+                    "title": "Game Of Thrones : Episode I - The Red Woman",
+                    "episode_number": "1",
+                    "description": "Jon Snow's corpse is found by Ser Davos, Edd and a few other loyalists; Davos and the others take him inside and lock themselves behind a door with him, while Edd goes to get help. Thorne assumes command of the Watch. At Winterfell, Ramsay mourns for Myranda, while Sansa and Theon escape through the woods. Ramsay's men catch up with them, and are about to take them captive, when Brienne and Pod arrive, kill the men, and the former is accepted into Sansa's service. In King's Landing, Cersei receives Jaime, who arrives with Myrcella's body. Jaime promises Cersei they will take their revenge. Obara and Nymeria murder Trystane, on his way home from King's Landing, while in Sunspear, Doran and Areo Hotah are killed by Ellaria and Tyene, after the former learns of Myrcella's death. In Meereen, Tyrion and Varys find all the ships burning in the harbor. Jorah and Daario continue to track Daenerys, who is taken by the Dothraki to Khal Moro. In Braavos, Arya lives on the streets as a beggar, where she is beaten by the Waif. In her chamber, Melisandre removes her bejeweled necklace as she reveals her true appearance as an old crone.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S06-E01v1.png"
+                },
+                {
+                    "title": "Game Of Thrones : Episode II - Home",
+                    "episode_number": "2",
+                    "description": "Brandon visits Winterfell in a vision of the past, and sees Eddard, Benjen, and their sister Lyanna, as well as a young Hodor. Edd arrives with Tormund and a group of Wildlings, imprisoning Thorne and the other mutineers. Tommen asks Cersei to teach him to be strong. Tyrion learns that Astapor and Yunkai have reverted to slavery, and releases Rhaegal and Viserion from their chains. In Braavos, Arya is attacked by the Waif before H'ghar appears and recruits her again. Walda, Roose's wife, gives birth to a boy, prompting Ramsay to murder Roose, her, and the baby. Brienne reveals to Sansa that Arya is still alive. Sansa permits Theon's return to the Iron Islands, where his uncle Euron reappears and murders King Balon. Seaworth persuades Melisandre to attempt to resurrect Jon. At first, her attempts seem to fail. However, once everyone leaves the room, he awakens.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S06-E01v2.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode III - Oathbreaker",
+                    "episode_number": "3",
+                    "description": "On a boat on their way to Oldtown, Tarly reveals his intent to leave Gilly and her baby with the former's family at Horn Hill while he trains to be a Maester. In a vision of the past, Brandon sees Eddard and Howland, Meera's father, defeat a group of Kingsguard loyal to the Targaryens at the Tower of Joy in Dorne. Varys discovers that the masters of Astapor, Yunkai, and Volantis have been financing the Sons of the Harpy. In King's Landing, Tommen converses with the High Sparrow while Jaime and Cersei interrupt a small council meeting, only to be shunned by Kevan and the Tyrells. Cersei's bodyguard is revealed to be Gregor. Arya trains rigorously with the Waif and her sight is returned to her once she has accepted herself as \"no-one\". In Winterfell, Lord Umber asks Ramsay for help in protecting the North from the Wildlings, bringing Rickon and Osha as a gift, along with the head of Shaggydog, Rickon's direwolf. Jon executes Thorne, Olly and the other officers involved in his assassination. He renounces his oath and puts Tollett in charge of the Night's Watch.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S06-E01v3.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode IV - Book of the Stranger",
+                    "episode_number": "4",
+                    "description": "Sansa's party arrives at Castle Black as she is reunited with Jon. In Meereen, Tyrion meets with the slave masters of Slaver's Bay to offer peace if they will end slavery within a period of seven years, an action that angers the former slaves. Baelish returns to the Vale to mobilize their soldiers against Ramsay. Naharis learns about Mormont's greyscale as they arrive in Vaes Dothrak. In King's Landing, Margaery is permitted to visit Loras while Cersei, Jaime, Kevan and Olenna put aside their differences and plan a defeat of the Sparrows. Theon arrives at Pyke and explains to Yara that he will support her claim at the Kingsmoot. In Winterfell, Osha attempts to assassinate Ramsay but is killed by him. Ramsay sends a letter to Jon, threatening harm to Rickon if Sansa is not returned. She convinces Jon to march south in order to take back Winterfell. Daenerys meets with the Khals in the temple of the Dosh Khaleen; after they refuse to serve her, she burns them and Moro to death. When she emerges unhurt, the Dothraki kneel to her.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S06-E01v4.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode V - Door",
+                    "episode_number": "5",
+                    "description": "Sansa meets Baelish, who offers the support of the Vale and tells her that Brynden Tully, her great uncle, is gathering an army in Riverrun; she initially refuses his help. Jon and Sansa leave Castle Black to gather support from the other Northern houses, with her sending Brienne to Brynden. In Braavos, Arya is given a second chance to prove her loyalty by killing an actress. Beyond the Wall, Brandon learns that the White Walkers were created by the Children of the Forest to protect themselves from the First Men. In the Iron Islands, Euron wins the Kingsmoot despite confessing to killing Balon, causing Yara and Theon to flee. In Essos, Daenerys learns about Mormont's greyscale, ordering him to find a cure and return. In Meereen, a red priestess named Kinvara meets Tyrion and Varys and promises to support Daenerys. Brandon's unaccompanied vision causes him to be touched by the Night King, making the cave vulnerable. The Night King, along with White Walkers and hordes of wights, attack the cave, killing the Three-Eyed Raven, several Children, Summer, and Hodor, whose younger self is shown to have been rendered mentally disabled by Brandon's interference.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S06-E01v5.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode VI - Blood of My Blood",
+                    "episode_number": "6",
+                    "description": "Bran and Meera are saved by Benjen, who reveals that he was turned by the White Walkers, but was later unturned by the Children using Dragonglass. Samwell and Gilly reach the Tarly family estate Horn Hill. After Sam's father, Randyll, insults her for being a Wildling, Sam decides to take her with him to the Citadel, also stealing House Tarly's ancestral Valyrian steel sword, Heartsbane. Arya warns the actress about her mission to assassinate her, recovering the Needle. H'ghar approves of the Waif's request to kill Arya. Jaime attempts to rescue Margaery from the Faith Militant, only to find she has repented and Tommen has forged an alliance with the Faith. He removes Jaime from the Kingsguard and orders him to help Walder Frey, who is holding Edmure Tully hostage, and to retake Riverrun from Brynden. Daenerys mounts Drogon, and declares to the Dothraki that they will sail across the Narrow Sea to conquer Westeros.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S06-E01v6.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode VII - The Broken Men",
+                    "episode_number": "7",
+                    "description": "Margaery convinces Olenna to return to Highgarden after the High Sparrow says that he will pursue Olenna following her attempt to engage the Faith. Jon, Sansa, and Davos recruit the Wildlings and House Mormont to their cause, but remain outnumbered by the Boltons. In desperation, Sansa writes a letter begging for aid. Jaime arrives in Riverrun with Bronn, assuming control of the siege. The former goes to parley with Brynden, ultimately being unsuccessful. Theon and Yara spend their last night in Volantis, deciding to sail to Meereen to ally with Daenerys. In Braavos, Arya prepares to return to Westeros, but is attacked by the Waif. Arya is badly wounded but escapes. Sandor is revealed to be alive, having been saved by a Septon and his followers. When men from the Brotherhood threaten and eventually slaughter the group, Sandor decides to get revenge.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S06-E01v7.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode VIII - No One",
+                    "episode_number": "8",
+                    "description": "Tommen abolishes trial by combat, much to the dismay of Cersei, who planned to win using Gregor. Brienne arrives in Riverrun and attempts to persuade Brynden to surrender, without success. After Jaime threatens to kill Edmure's young son, he enters the castle and orders the Tully forces to stand down, but Brynden is killed fighting the Lannisters. Brienne and Podrick escape. Varys departs Meereen on an unknown mission. Meereen comes under naval assault by the slaving cities, but Daenerys returns. Sandor kills the outlaws who sacked his village and encounters Dondarrion and Thoros, who explain that the outlaws were renegades. They try to convince Sandor to join the Brotherhood. Arya is taken in by the actress, who heals her wounds. In the morning, the Waif arrives, kills the actress and chases Arya through the streets of Braavos. Arya leads the Waif into the catacombs and kills her. She returns the Waif's face to the House and declares that she is Arya Stark of Winterfell and she is going home.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S06-E01v8.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode IX - Battle of Bastards",
+                    "episode_number": "9",
+                    "description": "Daenerys meets with the slave masters to negotiate terms of surrender, but they refuse it. Riding Drogon, as Rhaegal and Viserion assist, Daenerys attacks and burns the slavers' fleet. Grey Worm kills two of the masters, leaving one to tell of what he had witnessed. After the battle, Theon and Yara meet with Daenerys and Tyrion and agree to an alliance. Near Winterfell, the Stark and Bolton armies meet on the field. Ramsay feigns setting Rickon free, but kills him with a long-distance arrow before Jon can save him. In the battle, the Stark forces are pinned by Bolton soldiers, but are rescued by the Knights of the Vale. Ramsay flees inside Winterfell, but the Wildling giant Wun Wun, having taken numerous arrows to his body, manages to break down the gate before succumbing to his wounds. Jon brutally beats Ramsay and takes him prisoner. Sansa later visits Ramsay's cell in the kennels and watches as his starving hounds devour him.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S06-E01v9.jpg"
+                },
+                {
+                    "title": "Game Of Thrones : Episode X - The Winds of Winter",
+                    "episode_number": "10",
+                    "description": "Before her trial, Cersei destroys the Sept of Baelor by wildfire, killing the High Sparrow, Margaery, Mace and Loras Tyrell, Lancel and Kevan Lannister, along with hundreds of King's Landing nobles and the Faith Militant, while Qyburn has Pycelle killed. Tommen commits suicide. In Dorne, Varys meets with Olenna and Ellaria, seeking to form an alliance between Daenerys and their houses against the Lannisters. Seaworth confronts Melisandre over the death of Shireen; Jon banishes her from Winterfell. The Wildlings, the Knights of the Vale and the surviving Houses of the North pledge loyalty to Jon as the new King in the North. Sansa stops Baelish from getting intimate with her. Arya kills Walder Frey and his sons. Tarly and Gilly reach the Citadel in Oldtown. Benjen tells Brandon and Meera to pass the Wall without him. Brandon uses his powers and learns that Jon is actually the son of Lyanna and Rhaegar, being adopted by Eddard after she died during Robert's rebellion. Jaime returns to King's Landing to find Qyburn crowning Cersei the new monarch of the Seven Kingdoms. Daenerys leaves Naharis and the Second Sons to rule Meereen before she sets sail to Westeros with her other companions, armies and dragons.",
+                    "main_cast": [],
+                    "episode_image": "Game_of_Trones_S06-E01v10.jpg"
+                }
+            ]
+        }
+    ]
+}
