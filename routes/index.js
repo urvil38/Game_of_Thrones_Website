@@ -2,28 +2,38 @@ var seriesDataJSON = require('../seasons.json');
 
 var seasons = seriesDataJSON.seasons;
 
+function between(val,a,b){
+    if(val >= a && val <= b){
+        return true;
+    }
+}
+
 exports.episodes= function(req,res) {
 
     var season_number = req.params.season_number;
 
     var episode_number = req.params.episode_number;
     
-    //element of particular season which index is calulated by help of season_number given by req.params property
-    var season = seasons[season_number - 1];
-    
-    //array of episodes of particular season i.e season 1 ,episode all
-    var episodes = season.episodes;
+    if(between(season_number,1,6) && between(episode_number,1,10)){
+        //element of particular season which index is calulated by help of season_number given by req.params property
+        var season = seasons[season_number - 1];
+        
+        //array of episodes of particular season i.e season 1 ,episode all
+        var episodes = season.episodes;
 
-    //element of particular episode which index is calculated by help of episode_number given by req.params property
-    var episode = season.episodes[episode_number - 1];
+        //information of particular episode which index is calculated by help of episode_number given by req.params property
+        var episode = season.episodes[episode_number - 1];
 
-    //reander episode based on particular information
-    res.render('episode',{
-        season : season,
-        season_number :season_number,
-        episodes : episodes,
-        episode : episode
-    });
+        //reander episode based on particular information
+                res.render('episode',{
+                season : season,
+                season_number :season_number,
+                episodes : episodes,
+                episode : episode
+            });
+    } else {
+            res.send('not found');
+    }
 }
 
 
@@ -32,15 +42,18 @@ exports.episodeHome = function(req,res) {
 
     var season_number = req.params.season_number;
 
-    var season = seasons[season_number - 1];
+    if(between(season_number,1,6)){
+        var season = seasons[season_number - 1];
 
-    var episodes = season.episodes;
+        var episodes = season.episodes;
 
-    res.render('episodeHome',{
-        season : season,
-        episodes : episodes,
-        season_number : season_number
-    });
-
-}
+                res.render('episodeHome',{
+                season : season,
+                episodes : episodes,
+                season_number : season_number
+            });
+    } else {
+        res.send('not found');
+    }
+ }
 
