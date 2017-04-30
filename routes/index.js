@@ -8,6 +8,7 @@ function between(val,a,b){
     }
 }
 
+
 exports.episodes= function(req,res) {
 
     var season_number = req.params.season_number;
@@ -32,7 +33,7 @@ exports.episodes= function(req,res) {
                 episode : episode
             });
     } else {
-            res.send('not found');
+            res.render('notFound');
     }
 }
 
@@ -53,7 +54,14 @@ exports.episodeHome = function(req,res) {
                 season_number : season_number
             });
     } else {
-        res.send('not found');
+        res.render('notFound');
     }
+ }
+
+ exports.seasonHome = function(req,res) {
+ 
+    res.render('seasonHome',{
+        seasons : seasons
+    });
  }
 

@@ -15,6 +15,8 @@ app.get('/seasons/:season_number/episodes/:episode_number',routes.episodes);
 
 app.get('/seasons/:season_number/episodes/',routes.episodeHome);
 
+app.get('/',routes.seasonHome);
+
 app.get('*',function(req,res){
     res.send('page not found');
 });

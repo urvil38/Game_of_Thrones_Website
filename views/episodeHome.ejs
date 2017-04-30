@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   
-  <% include partials/episodeheadHome.ejs %>
+  <% include partials/episodehead.ejs %>
 
 </head>
 <body>
@@ -14,7 +14,7 @@
     </div>
 
 
-	<div id="posters-wrapper" class="content-padding">
+	<div id="posters-wrapper" class="content-padding clearfix">
     <ui class="poster">
 	  <% for (var i = 0; i < episodes.length; i++) { %>
 	  	
@@ -35,7 +35,7 @@
 
 	</div>
 
-
+  <% include partials/footer.ejs %>	
   <% include partials/scripts.ejs %>
 
 </body>

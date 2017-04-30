@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  <% include partials/seasonhead.ejs %>
+
+</head>
+<body>
+
+	<% include partials/seasonHeader.ejs %>
+
+	<div id="hero-image-single" style="background-image: url('/images/season1/<%= seasons[0].poster %>');">
+            <h1 id="hero-title"><b>Game of Throns</b></h1>
+    </div>
+
+
+	<div id="posters-wrapper" class="content-padding clearfix">
+    <ui class="poster">
+	  <% for (var i = 0; i < seasons.length; i++) { %>
+	  	
+            <li>
+	  		<a href="/seasons/<%= i+1 %>/episodes/">
+
+			  	<img src="/images/season1/<%= seasons[i].image %>" class="img-responsive">
+
+			  	<div class="poster-info-overlay">
+			  		<h3><%= seasons[i].title %></h3>
+			  		<h4>View More <i class="fa fa-arrow-right"></i></h4>
+			  	</div>
+
+		  	</a>
+         </li>	  
+	  <% } %>
+      </ui>
+
+	</div>
+
+  <% include partials/footer.ejs %>	
+  <% include partials/scripts.ejs %>
+
+</body>
+</html>

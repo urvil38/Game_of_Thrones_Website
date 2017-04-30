@@ -17,11 +17,11 @@ body {
 /* --------------------------
 Hero Image / Title Styles 
 ----------------------------- */
-#hero-image {
+#hero-image-notFound {
 	height: 550px;
 	width: 100%;
 	background-color: #444;
-	background-image: url('../images/death_star_image.jpg');
+	background-image: url('../images/season1/Game_of_Thrones_Season_2.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -49,6 +49,26 @@ Hero Image / Title Styles
 	-ms-transform: translateX(-50%);
   transform: translateX(-50%);
 
+  bottom: 0;
+  margin: 0px;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 1.20em;
+  letter-spacing: 0.4px;
+}
+
+#hero-title-notFound {
+	position: absolute;
+	background-color: black;
+	color: white;
+	padding: 25px 60px;
+	left: 50%;
+	-webkit-transform: translateX(-50%);
+	-moz-transform: translateX(-50%);
+	-o-transform: translateX(-50%);
+	-ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+  border: 2px solid white;	
   bottom: 0;
   margin: 0px;
   text-transform: uppercase;
@@ -101,7 +121,7 @@ Navbar and Navigation Styles / Overrides
 	background-color: rgba(0,0,0,0.5);
 }
 
-
+black
 
 
 
@@ -176,7 +196,8 @@ Footer Styles
 -------------------------------- */
 
 footer {
-	margin-top: 50px;
+	margin-top: 75px;
+	margin-left: 40px;
 }
 
 footer::before {
@@ -193,33 +214,38 @@ footer p {
 	float: left;
 	color: #999;
 	letter-spacing: 0.3px;
-	font-size: 12px;
+	font-size: 14px;
 	padding-bottom: 20px;
+	margin-top: 7px;
 }
 
 footer .social-media-icons {
 	float: right;
+	margin-right: 20px;
 }
 
 footer .social-media-icons i {
-	font-size: 24px;
+	font-size: 30px;
 	color: #999;
 	transition: 0.5s ease-in-out;
 }
 
-footer .social-media-icons a:first-child {
+footer .social-media-icons a {
 	margin-right: 20px;
 }
 
-footer .social-media-icons a:last-child:hover i {
-	color: #af0b0c;
+
+footer .social-media-icons a:nth-child(2):hover i {
+	color:#3b5998;
 }
 
-footer .social-media-icons a:first-child:hover i {
-	color: #333;
+footer .social-media-icons a:nth-child(1):hover i {
+	color:black;
 }
 
-
+footer .social-media-icons a:nth-child(3):hover i {
+	color:#0084b4;
+}
 
 
 
@@ -356,6 +382,27 @@ Media Queries / Responsive Styles
 		padding-right: 8%;
 	}
 }
+@media (max-width: 570px) {
+	footer p{
+		text-align: center;
+		display: block;
+		clear:both;
+		float: none;
+		margin-right: 35px;
+	}
+	footer .social-media-icons{
+		float:none;
+		text-align: center;
+		display: block;
+	}
+	footer .social-media-icons i{
+		font-size: 22px;
+	}
+	footer{
+		margin-top: 25px;
+	}
+
+}
 @media (max-width: 767px) {
 	.content-padding {
 		padding-left: 5%;
@@ -445,7 +492,7 @@ Media Queries / Responsive Styles
 	}
 	.navbar-nav .open .dropdown-menu {
 		position: absolute;
-		margin-left: -100px;
+		margin-left: 15px;
 		background-color: rgba(0,0,0,0.5);
 	}
 	
