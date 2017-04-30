@@ -17,4 +17,4 @@ app.get('/seasons/:season_number/episodes/',routes.episodeHome);
 
 app.listen(port,function(){
     console.log(`app running on port : ${port}`);
-})
+});

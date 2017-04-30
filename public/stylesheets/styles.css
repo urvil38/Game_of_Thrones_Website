@@ -268,7 +268,7 @@ Movie-Single Hero Image and Title Styles
 	-moz-transform: translateX(-50%);
 	-o-transform: translateX(-50%);
 	-ms-transform: translateX(-50%);
-  transform: translateX(-50%);
+  	transform: translateX(-50%);
 
   bottom: 0;
 
@@ -301,7 +301,7 @@ Movie-Single Poster and Description Styles
 }
 
 .movie-header {
-	text-transform: uppercase;
+  text-transform: uppercase;
   font-weight: 400;
   font-size: 0.95em;
   letter-spacing: 0.4px;

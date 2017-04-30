@@ -26,6 +26,8 @@ exports.episodes= function(req,res) {
     });
 }
 
+
+//episodes homepage where all episode of current seasons are shows
 exports.episodeHome = function(req,res) {
 
     var season_number = req.params.season_number;
