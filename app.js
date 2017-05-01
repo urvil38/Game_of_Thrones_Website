@@ -1,5 +1,5 @@
 var express = require('express');
-var routes = require('./routes');
+var routes = require('./routes/routes');
 var path = require('path');
 
 
@@ -9,13 +9,11 @@ app.use(express.static(path.join(__dirname,'public')));
 
 var port = process.env.PORT || 8000;
 
-//app.get('/',routes.home);
+app.get('/',routes.seasonHome);
 
 app.get('/seasons/:season_number/episodes/:episode_number',routes.episodes);
 
 app.get('/seasons/:season_number/episodes/',routes.episodeHome);
-
-app.get('/',routes.seasonHome);
 
 app.get('*',function(req,res){
     res.render('notFound');

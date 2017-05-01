@@ -1,4 +1,4 @@
-var seriesDataJSON = require('../seasons.json');
+var seriesDataJSON = require('../seriesDataJSON.json');
 
 var seasons = seriesDataJSON.seasons;
 
