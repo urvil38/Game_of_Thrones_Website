@@ -1,42 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  
-  <% include partials/seasonhead.ejs %>
+
+	<% include partials/head/seasonhead.ejs %>
 
 </head>
+
 <body>
 
-	<% include partials/seasonHeader.ejs %>
+	<% include partials/header/seasonHeader.ejs %>
 
-	<div id="hero-image-single" style="background-image: url('/images/season1/<%= seasons[0].poster %>');">
-            <h1 id="hero-title"><b>Game of Throns</b></h1>
-    </div>
+	<div id="hero-image-single" style="background-image: url('/images/season1/Game_of_Thrones.jpg');">
+		<h1 id="hero-title">Game of Thrones</h1>
+	</div>
 
 
 	<div id="posters-wrapper" class="content-padding clearfix">
-    <ui class="poster">
-	  <% for (var i = 0; i < seasons.length; i++) { %>
-	  	
-            <li>
-	  		<a href="/seasons/<%= i+1 %>/episodes/">
+		<ui class="poster">
+			<% for (var i = 0; i < seasons.length; i++) { %>
 
-			  	<img src="/images/season1/<%= seasons[i].image %>" class="img-responsive">
+				<li>
+					<a href="/seasons/<%= i+1 %>/episodes/">
 
-			  	<div class="poster-info-overlay">
-			  		<h3><%= seasons[i].title %></h3>
-			  		<h4>View More <i class="fa fa-arrow-right"></i></h4>
-			  	</div>
+						<img src="/images/season1/<%= seasons[i].image %>" class="img-responsive">
 
-		  	</a>
-         </li>	  
-	  <% } %>
-      </ui>
+						<div class="poster-info-overlay">
+							<h3><%= seasons[i].title %></h3>
+							<h4>View More <i class="fa fa-arrow-right"></i></h4>
+						</div>
 
+	  				</a>
+				</li>
+			<% } %>
+		</ui>
 	</div>
 
-  <% include partials/footer.ejs %>	
-  <% include partials/scripts.ejs %>
+	<% include partials/footer.ejs %>
+	<% include partials/scripts.ejs %>
 
 </body>
+
 </html>

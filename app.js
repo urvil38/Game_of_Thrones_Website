@@ -18,7 +18,7 @@ app.get('/seasons/:season_number/episodes/',routes.episodeHome);
 app.get('/',routes.seasonHome);
 
 app.get('*',function(req,res){
-    res.send('page not found');
+    res.render('notFound');
 });
 
 app.listen(port,function(){

@@ -10,8 +10,14 @@ body {
 .content-padding {
 	padding-left: 11%;
 	padding-right: 11%;
+	padding-top: 40px;
+	margin-bottom: -40px;
 }
 
+.content-padding-footer {
+	padding-left: 11%;
+	padding-right: 11%;
+	}
 
 
 /* --------------------------
@@ -264,7 +270,7 @@ Movie-Single Hero Image and Title Styles
 ------------------------------------------ */
 
 #hero-image-single {
-	height: 550px;
+	height: 590px;
 	width: 100%;
 	background-color: #444;
 	background-size: cover;
@@ -492,10 +498,12 @@ Media Queries / Responsive Styles
 	}
 	.navbar-nav .open .dropdown-menu {
 		position: absolute;
-		margin-left: 15px;
+		margin-left: -57%;
 		background-color: rgba(0,0,0,0.5);
 	}
-	
+	.dropdown-open{
+		margin-left: 25px;
+	}
 }
 
 /* Decrease font size and padding of poster overlay on mobile devices */
@@ -511,7 +519,7 @@ Media Queries / Responsive Styles
 /* Decrease the height of the hero images on mobile devices */
 @media (max-width: 767px) {
 	#hero-image, #hero-image-single, #hero-image-notFound {
-		height: 400px;
+		height: 600px;
 	}
 }
 
