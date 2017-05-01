@@ -1,6 +1,8 @@
 # Game_of_Thrones_Website
 A basic Express.js app which shows information about Game of Thrones.
 
+[Game of Thrones](public/images/readme.png)
+
 This webapp provides rich information about all Game of Thrones Series.The backend written in node.js with express.js framwork.
 
 # How to run ?
@@ -37,4 +39,4 @@ If you :+1: this app then give a :star:.
 
 **<** **>** with :heart:  
 
- :smiley: **Keep Heaking** :smiley: 
+ :smiley: **Keep Hacking** :smiley: 
