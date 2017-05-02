@@ -54,6 +54,7 @@ exports.episodeHome = function (req, res) {
             season_number: season_number
         });
     } else {
+        //Broken links 404 page not found
         res.render('notFound');
     }
 }

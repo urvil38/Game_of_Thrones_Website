@@ -8,7 +8,7 @@ var app = express();
 app.set('view engine' , 'ejs');
 app.use(express.static(path.join(__dirname,'public')));
 
-var port = process.env.PORT || 3000;
+var port = process.env.PORT || 8000;
 
 app.use(favicon(path.join(__dirname,'public','images','favicon.ico')));
 
