@@ -21,7 +21,7 @@ $ npm install
 
 - To run app execute following command:
 ```
-npm start
+$ npm start
 ```
 > ```npm start``` run the defult starting script mentioned in package.json file.
 
